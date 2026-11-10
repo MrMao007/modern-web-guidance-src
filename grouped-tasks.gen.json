@@ -421,6 +421,9 @@
       "dynamic-sibling-animations": [
         "task"
       ],
+      "dynamic-sort": [
+        "daily-grind"
+      ],
       "group-element-transitions": [
         "task"
       ],
