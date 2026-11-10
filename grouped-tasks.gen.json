@@ -498,6 +498,9 @@
       ]
     },
     "ui-components": {
+      "accordion": [
+        "daily-grind"
+      ],
       "app-menus": [
         "daily-grind"
       ],
@@ -556,6 +559,9 @@
     },
     "user-experience": {
       "content-first-noise-reduction": [
+        "daily-grind"
+      ],
+      "form-factor-adaptation": [
         "daily-grind"
       ],
       "natural-interactions": [
