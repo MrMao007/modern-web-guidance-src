@@ -565,6 +565,10 @@
       "stack-drill-down": [
         "task"
       ],
+      "tabs": [
+        "daily-grind",
+        "daily-grind-limited"
+      ],
       "toolbar": [
         "daily-grind"
       ]
