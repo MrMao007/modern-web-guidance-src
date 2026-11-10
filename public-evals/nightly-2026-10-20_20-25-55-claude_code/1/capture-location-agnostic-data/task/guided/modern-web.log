@@ -1,0 +1,2 @@
+{"timestamp":"2026-10-20T20:29:13.835Z","tool":"search_use_cases","result":[{"id":"capture-location-agnostic-data","similarity":0.621},{"id":"coordinate-global-events","similarity":0.6012},{"id":"manage-recurring-intervals","similarity":0.4891},{"id":"model-partial-time-concepts","similarity":0.4756},{"id":"support-global-calendar-systems","similarity":0.46}]}
+{"timestamp":"2026-10-20T20:29:15.531Z","tool":"get_best_practices","result":[{"id":"capture-location-agnostic-data"}]}

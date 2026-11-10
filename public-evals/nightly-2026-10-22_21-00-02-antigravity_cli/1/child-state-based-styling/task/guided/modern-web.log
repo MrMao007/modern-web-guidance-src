@@ -1,0 +1,4 @@
+{"timestamp":"2026-10-22T21:23:22.172Z","tool":"search_use_cases","result":[{"id":"child-state-based-styling","similarity":0.6002},{"id":"css","similarity":0.63},{"id":"checkbox","similarity":0.5743},{"id":"card","similarity":0.5},{"id":"style-parent-with-has","similarity":0.5515}]}
+{"timestamp":"2026-10-22T21:23:36.668Z","tool":"get_best_practices","result":[{"id":"child-state-based-styling"}]}
+{"timestamp":"2026-10-22T21:23:36.669Z","tool":"get_best_practices","result":[{"id":"checkbox"}]}
+{"timestamp":"2026-10-22T21:23:36.670Z","tool":"get_best_practices","result":[{"id":"css"}]}

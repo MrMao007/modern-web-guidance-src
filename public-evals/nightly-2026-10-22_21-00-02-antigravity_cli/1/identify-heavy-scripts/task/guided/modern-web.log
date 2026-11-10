@@ -1,0 +1,4 @@
+{"timestamp":"2026-10-22T22:01:20.077Z","tool":"search_use_cases","result":[{"id":"identify-heavy-scripts","similarity":0.7197},{"id":"identify-inp-causes","similarity":0.5888},{"id":"optimize-script-priority","similarity":0.6123},{"id":"performance","similarity":0.5816},{"id":"flicker-free-client-side-ab-testing","similarity":0.4291}]}
+{"timestamp":"2026-10-22T22:01:23.764Z","tool":"get_best_practices","result":[{"id":"identify-heavy-scripts"}]}
+{"timestamp":"2026-10-22T22:01:23.765Z","tool":"get_best_practices","result":[{"id":"identify-inp-causes"}]}
+{"timestamp":"2026-10-22T22:01:23.766Z","tool":"get_best_practices","result":[{"id":"performance"}]}

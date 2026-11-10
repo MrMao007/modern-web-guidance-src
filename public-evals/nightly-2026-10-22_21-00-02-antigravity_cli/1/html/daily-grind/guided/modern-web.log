@@ -1,0 +1,9 @@
+{"timestamp":"2026-10-22T21:59:51.169Z","tool":"search_use_cases","result":[{"id":"html","similarity":0.6456},{"id":"out-of-order-html-streaming","similarity":0.5211},{"id":"usage-aware-component-variations","similarity":0.44},{"id":"accessibility","similarity":0.3914},{"id":"accessible-web-components","similarity":0.5027}]}
+{"timestamp":"2026-10-22T21:59:51.995Z","tool":"search_use_cases","result":[{"id":"html","similarity":0.6416},{"id":"animate-to-from-top-layer","similarity":0.592},{"id":"persistent-app-tours","similarity":0.6332},{"id":"declarative-dialog-popover-control","similarity":0.6879},{"id":"menu","similarity":0.5497}]}
+{"timestamp":"2026-10-22T21:59:52.842Z","tool":"search_use_cases","result":[{"id":"optimize-preload-priority","similarity":0.6775},{"id":"optimize-image-priority","similarity":0.5322},{"id":"optimize-script-priority","similarity":0.5523},{"id":"performance","similarity":0.5111},{"id":"html","similarity":0.4253}]}
+{"timestamp":"2026-10-22T21:59:56.874Z","tool":"get_best_practices","result":[{"id":"html"}]}
+{"timestamp":"2026-10-22T21:59:56.875Z","tool":"get_best_practices","result":[{"id":"declarative-dialog-popover-control"}]}
+{"timestamp":"2026-10-22T21:59:56.876Z","tool":"get_best_practices","result":[{"id":"optimize-image-priority"}]}
+{"timestamp":"2026-10-22T22:00:05.668Z","tool":"get_best_practices","result":[{"id":"optimize-preload-priority"}]}
+{"timestamp":"2026-10-22T22:00:05.669Z","tool":"get_best_practices","result":[{"id":"accessibility"}]}
+{"timestamp":"2026-10-22T22:00:05.671Z","tool":"get_best_practices","result":[{"id":"performance"}]}

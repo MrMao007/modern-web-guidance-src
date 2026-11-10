@@ -1,0 +1,5 @@
+{"timestamp":"2026-10-20T20:57:11.999Z","tool":"search_use_cases","result":[{"id":"improve-next-page-load-performance","similarity":0.6173},{"id":"optimize-preload-priority","similarity":0.5417},{"id":"performance","similarity":0.4349}]}
+{"timestamp":"2026-10-20T20:57:15.033Z","tool":"get_best_practices","result":[{"id":"improve-next-page-load-performance"}]}
+{"timestamp":"2026-10-20T20:57:15.034Z","tool":"get_best_practices","result":[{"id":"performance"}]}
+{"timestamp":"2026-10-20T20:57:26.509Z","tool":"get_best_practices","result":[{"id":"improve-next-page-load-performance"}]}
+{"timestamp":"2026-10-20T20:57:26.510Z","tool":"get_best_practices","result":[{"id":"performance"}]}

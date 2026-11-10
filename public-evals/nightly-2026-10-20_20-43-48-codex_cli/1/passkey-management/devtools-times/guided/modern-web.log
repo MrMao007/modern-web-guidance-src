@@ -1,0 +1,7 @@
+{"timestamp":"2026-10-20T21:02:43.991Z","tool":"search_use_cases","result":[{"id":"passkey-management","similarity":0.648},{"id":"passkeys","similarity":0.6165},{"id":"passkey-conditional-create","similarity":0.5507},{"id":"passkey-authentication","similarity":0.5294},{"id":"passkey-reauthentication","similarity":0.508}]}
+{"timestamp":"2026-10-20T21:02:47.064Z","tool":"get_best_practices","result":[{"id":"passkey-management"}]}
+{"timestamp":"2026-10-20T21:02:47.065Z","tool":"get_best_practices","result":[{"id":"passkeys"}]}
+{"timestamp":"2026-10-20T21:02:58.546Z","tool":"get_best_practices","result":[{"id":"passkey-registration"}]}
+{"timestamp":"2026-10-20T21:02:59.269Z","tool":"search_use_cases","result":[{"id":"accessibility","similarity":0.6989},{"id":"declarative-dialog-popover-control","similarity":0.5663},{"id":"html","similarity":0.5385},{"id":"light-dismiss-a-dialog","similarity":0.5152},{"id":"platform-controls-dismiss-dialog","similarity":0.4785}]}
+{"timestamp":"2026-10-20T21:03:13.318Z","tool":"get_best_practices","result":[{"id":"platform-controls-dismiss-dialog"}]}
+{"timestamp":"2026-10-20T21:06:30.619Z","tool":"get_best_practices","result":[{"id":"passkey-authentication"}]}

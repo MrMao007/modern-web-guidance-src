@@ -1,0 +1,4 @@
+{"timestamp":"2026-10-22T22:55:07.219Z","tool":"search_use_cases","result":[{"id":"forms","similarity":0.4244},{"id":"html","similarity":0.392},{"id":"search-hidden-content","similarity":0.3365},{"id":"accessibility","similarity":0.4475},{"id":"css-layout","similarity":0.2601}]}
+{"timestamp":"2026-10-22T22:55:07.958Z","tool":"search_use_cases","result":[{"id":"search-hidden-content","similarity":0.7546},{"id":"defer-rendering-heavy-content","similarity":0.5583},{"id":"accessibility","similarity":0.4185},{"id":"pull-to-reveal","similarity":0.4083},{"id":"scroll-position-aware-elements","similarity":0.2855}]}
+{"timestamp":"2026-10-22T22:55:11.941Z","tool":"get_best_practices","result":[{"id":"search-hidden-content"}]}
+{"timestamp":"2026-10-22T22:55:11.942Z","tool":"get_best_practices","result":[{"id":"html"}]}

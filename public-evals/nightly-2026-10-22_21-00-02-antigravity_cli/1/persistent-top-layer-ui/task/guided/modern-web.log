@@ -1,0 +1,7 @@
+{"timestamp":"2026-10-22T22:31:56.586Z","tool":"search_use_cases","result":[{"id":"persistent-top-layer-ui","similarity":0.605},{"id":"move-dom-element-without-losing-state","similarity":0.4952},{"id":"declarative-dialog-popover-control","similarity":0.4314},{"id":"light-dismiss-a-dialog","similarity":0.3782},{"id":"html","similarity":0.4055}]}
+{"timestamp":"2026-10-22T22:31:57.330Z","tool":"search_use_cases","result":[{"id":"declarative-dialog-popover-control","similarity":0.661},{"id":"light-dismiss-a-dialog","similarity":0.5815},{"id":"prevent-page-scroll-under-modal-dialog","similarity":0.4886},{"id":"accessibility","similarity":0.5936},{"id":"platform-controls-dismiss-dialog","similarity":0.4979}]}
+{"timestamp":"2026-10-22T22:32:07.208Z","tool":"get_best_practices","result":[{"id":"persistent-top-layer-ui"}]}
+{"timestamp":"2026-10-22T22:32:07.209Z","tool":"get_best_practices","result":[{"id":"move-dom-element-without-losing-state"}]}
+{"timestamp":"2026-10-22T22:32:07.210Z","tool":"get_best_practices","result":[{"id":"declarative-dialog-popover-control"}]}
+{"timestamp":"2026-10-22T22:32:07.210Z","tool":"get_best_practices","result":[{"id":"prevent-page-scroll-under-modal-dialog"}]}
+{"timestamp":"2026-10-22T22:32:07.212Z","tool":"get_best_practices","result":[{"id":"html"}]}

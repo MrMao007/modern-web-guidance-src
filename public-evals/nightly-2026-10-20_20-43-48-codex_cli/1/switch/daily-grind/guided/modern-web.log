@@ -1,0 +1,4 @@
+{"timestamp":"2026-10-20T21:13:16.865Z","tool":"search_use_cases","result":[{"id":"switch","similarity":0.581},{"id":"accessible-web-components","similarity":0.5518},{"id":"dark-mode-toggle","similarity":0.5514},{"id":"child-state-based-styling","similarity":0.4544},{"id":"accessibility","similarity":0.4443}]}
+{"timestamp":"2026-10-20T21:13:24.156Z","tool":"get_best_practices","result":[{"id":"switch"}]}
+{"timestamp":"2026-10-20T21:13:24.158Z","tool":"get_best_practices","result":[{"id":"dark-mode-toggle"}]}
+{"timestamp":"2026-10-20T21:13:24.158Z","tool":"get_best_practices","result":[{"id":"accessibility"}]}

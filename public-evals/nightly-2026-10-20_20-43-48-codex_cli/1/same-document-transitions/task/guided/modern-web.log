@@ -1,0 +1,4 @@
+{"timestamp":"2026-10-20T21:07:44.789Z","tool":"search_use_cases","result":[{"id":"animate-element-entry-exit","similarity":0.7156},{"id":"scoped-component-transitions","similarity":0.6511},{"id":"group-element-transitions","similarity":0.6465},{"id":"motion","similarity":0.644},{"id":"animate-to-from-top-layer","similarity":0.6342}]}
+{"timestamp":"2026-10-20T21:07:49.089Z","tool":"get_best_practices","result":[{"id":"motion"}]}
+{"timestamp":"2026-10-20T21:07:49.676Z","tool":"search_use_cases","result":[{"id":"cross-document-transitions","similarity":0.6688},{"id":"same-document-transitions","similarity":0.6496},{"id":"directional-navigation-transitions","similarity":0.6099},{"id":"consistent-cross-document-transitions","similarity":0.5875},{"id":"faster-spa-view-transitions","similarity":0.5641}]}
+{"timestamp":"2026-10-20T21:07:52.213Z","tool":"get_best_practices","result":[{"id":"same-document-transitions"}]}

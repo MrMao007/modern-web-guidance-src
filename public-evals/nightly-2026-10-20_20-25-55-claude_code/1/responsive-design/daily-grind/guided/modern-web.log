@@ -1,0 +1,6 @@
+{"timestamp":"2026-10-20T20:36:42.756Z","tool":"search_use_cases","result":[{"id":"fluid-scaling","similarity":0.6618},{"id":"styling-web-components","similarity":0.6577},{"id":"responsive-design","similarity":0.6428},{"id":"size-aware-styling","similarity":0.6253},{"id":"css-layout","similarity":0.6018}]}
+{"timestamp":"2026-10-20T20:36:43.436Z","tool":"search_use_cases","result":[{"id":"responsive-design","similarity":0.4432},{"id":"fluid-scaling","similarity":0.4013},{"id":"typography","similarity":0.3932},{"id":"css-layout","similarity":0.3841},{"id":"interactive-content-in-3d-scenes","similarity":0.3808}]}
+{"timestamp":"2026-10-20T20:36:44.113Z","tool":"search_use_cases","result":[{"id":"respect-os-text-scale","similarity":0.6326},{"id":"fluid-scaling","similarity":0.5985},{"id":"typography","similarity":0.544},{"id":"css-layout","similarity":0.5377},{"id":"responsive-design","similarity":0.51}]}
+{"timestamp":"2026-10-20T20:36:45.407Z","tool":"get_best_practices","result":[{"id":"responsive-design"}]}
+{"timestamp":"2026-10-20T20:36:45.408Z","tool":"get_best_practices","result":[{"id":"fluid-scaling"}]}
+{"timestamp":"2026-10-20T20:36:45.409Z","tool":"get_best_practices","result":[{"id":"typography"}]}

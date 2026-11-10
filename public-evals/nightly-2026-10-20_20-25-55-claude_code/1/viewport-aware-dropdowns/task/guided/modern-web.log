@@ -1,0 +1,2 @@
+{"timestamp":"2026-10-20T20:39:35.565Z","tool":"search_use_cases","result":[{"id":"viewport-aware-dropdowns","similarity":0.617},{"id":"position-aware-tooltips","similarity":0.6151},{"id":"declarative-dialog-popover-control","similarity":0.6004},{"id":"persistent-app-tours","similarity":0.5675},{"id":"interest-triggered-tooltips","similarity":0.5578}]}
+{"timestamp":"2026-10-20T20:39:36.705Z","tool":"get_best_practices","result":[{"id":"viewport-aware-dropdowns"}]}

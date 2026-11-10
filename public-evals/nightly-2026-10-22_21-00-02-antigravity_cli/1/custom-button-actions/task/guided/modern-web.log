@@ -1,0 +1,8 @@
+{"timestamp":"2026-10-22T21:34:12.195Z","tool":"search_use_cases","result":[{"id":"custom-button-actions","similarity":0.5044},{"id":"declarative-dialog-popover-control","similarity":0.4041},{"id":"menu","similarity":0.2982},{"id":"branded-select-styling","similarity":0.3282},{"id":"html","similarity":0.338}]}
+{"timestamp":"2026-10-22T21:34:16.910Z","tool":"get_best_practices","result":[{"id":"custom-button-actions"}]}
+{"timestamp":"2026-10-22T21:34:16.912Z","tool":"get_best_practices","result":[{"id":"html"}]}
+{"timestamp":"2026-10-22T21:35:00.822Z","tool":"search_use_cases","result":[{"id":"individual-transform-properties","similarity":0.5634},{"id":"directional-navigation-transitions","similarity":0.4732},{"id":"cross-document-transitions","similarity":0.4193},{"id":"animate-to-from-top-layer","similarity":0.3302},{"id":"dynamic-sibling-styling","similarity":0.3295}]}
+{"timestamp":"2026-10-22T21:35:16.954Z","tool":"get_best_practices","result":[{"id":"individual-transform-properties"}]}
+{"timestamp":"2026-10-22T21:35:16.956Z","tool":"get_best_practices","result":[{"id":"css"}]}
+{"timestamp":"2026-10-22T21:35:16.957Z","tool":"get_best_practices","result":[{"id":"accessibility"}]}
+{"timestamp":"2026-10-22T21:35:25.601Z","tool":"get_best_practices","result":[{"id":"motion"}]}

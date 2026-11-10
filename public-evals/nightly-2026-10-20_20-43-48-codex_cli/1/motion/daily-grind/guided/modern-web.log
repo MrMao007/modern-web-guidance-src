@@ -1,0 +1,2 @@
+{"timestamp":"2026-10-20T21:01:19.460Z","tool":"search_use_cases","result":[{"id":"motion","similarity":0.6371},{"id":"scrollytelling","similarity":0.6039},{"id":"animate-element-entry-exit","similarity":0.5975},{"id":"animate-to-intrinsic-sizes","similarity":0.5785},{"id":"parallax-scroll-effects","similarity":0.5732}]}
+{"timestamp":"2026-10-20T21:01:21.830Z","tool":"get_best_practices","result":[{"id":"motion"}]}

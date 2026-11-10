@@ -1,0 +1,7 @@
+{"timestamp":"2026-10-22T21:56:58.750Z","tool":"search_use_cases","result":[{"id":"autofill-sign-up-form","similarity":0.4485},{"id":"autofill-sign-in-form","similarity":0.4089},{"id":"autofill-payment-form","similarity":0.3914},{"id":"autofill-address-form","similarity":0.3835},{"id":"forms","similarity":0.4367}]}
+{"timestamp":"2026-10-22T21:57:07.450Z","tool":"get_best_practices","result":[{"id":"forms"}]}
+{"timestamp":"2026-10-22T21:57:07.451Z","tool":"get_best_practices","result":[{"id":"autofill-sign-up-form"}]}
+{"timestamp":"2026-10-22T21:57:07.452Z","tool":"get_best_practices","result":[{"id":"autofill-address-form"}]}
+{"timestamp":"2026-10-22T21:57:08.181Z","tool":"search_use_cases","result":[{"id":"autofill-sign-in-form","similarity":0.5342},{"id":"autofill-sign-up-form","similarity":0.5355},{"id":"forms","similarity":0.5741},{"id":"validate-input-after-interaction","similarity":0.6426},{"id":"autofill-payment-form","similarity":0.4987}]}
+{"timestamp":"2026-10-22T21:57:22.920Z","tool":"get_best_practices","result":[{"id":"validate-input-after-interaction"}]}
+{"timestamp":"2026-10-22T21:57:48.714Z","tool":"search_use_cases","result":[{"id":"forms","similarity":0.5586},{"id":"ime-safe-enter-submit","similarity":0.4895},{"id":"autofill-payment-form","similarity":0.4216},{"id":"autofill-sign-in-form","similarity":0.4387},{"id":"autofill-sign-up-form","similarity":0.4287}]}

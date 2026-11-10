@@ -1,0 +1,5 @@
+{"timestamp":"2026-10-22T22:08:40.160Z","tool":"search_use_cases","result":[{"id":"interest-triggered-tooltips","similarity":0.7246},{"id":"position-aware-tooltips","similarity":0.717},{"id":"hovercard","similarity":0.6882},{"id":"menu","similarity":0.537},{"id":"html","similarity":0.5081}]}
+{"timestamp":"2026-10-22T22:08:40.907Z","tool":"search_use_cases","result":[{"id":"position-aware-tooltips","similarity":0.6725},{"id":"hovercard","similarity":0.6053},{"id":"interest-triggered-tooltips","similarity":0.5934},{"id":"menu","similarity":0.5939},{"id":"persistent-app-tours","similarity":0.6049}]}
+{"timestamp":"2026-10-22T22:08:46.994Z","tool":"get_best_practices","result":[{"id":"interest-triggered-tooltips"}]}
+{"timestamp":"2026-10-22T22:08:46.995Z","tool":"get_best_practices","result":[{"id":"position-aware-tooltips"}]}
+{"timestamp":"2026-10-22T22:08:46.995Z","tool":"get_best_practices","result":[{"id":"html"}]}

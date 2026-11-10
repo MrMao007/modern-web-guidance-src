@@ -1,0 +1,5 @@
+{"timestamp":"2026-10-20T20:36:47.736Z","tool":"search_use_cases","result":[{"id":"performance","similarity":0.4691}]}
+{"timestamp":"2026-10-20T20:36:49.921Z","tool":"search_use_cases","result":[{"id":"schedule-tasks-by-priority","similarity":0.6912},{"id":"performance","similarity":0.5002},{"id":"deprioritize-background-fetches","similarity":0.4977},{"id":"break-up-long-tasks","similarity":0.4535},{"id":"optimize-script-priority","similarity":0.4272}]}
+{"timestamp":"2026-10-20T20:36:50.027Z","tool":"get_best_practices","result":[{"id":"performance"}]}
+{"timestamp":"2026-10-20T20:36:51.219Z","tool":"get_best_practices","result":[{"id":"schedule-tasks-by-priority"}]}
+{"timestamp":"2026-10-20T20:36:51.220Z","tool":"get_best_practices","result":[{"id":"break-up-long-tasks"}]}

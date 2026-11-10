@@ -1,0 +1,5 @@
+{"timestamp":"2026-10-22T23:05:30.679Z","tool":"search_use_cases","result":[{"id":"autofill-sign-in-form","similarity":0.5342},{"id":"autofill-sign-up-form","similarity":0.5355},{"id":"forms","similarity":0.5741},{"id":"validate-input-after-interaction","similarity":0.6426},{"id":"autofill-payment-form","similarity":0.4987}]}
+{"timestamp":"2026-10-22T23:05:31.459Z","tool":"search_use_cases","result":[{"id":"style-parent-with-has","similarity":0.6313},{"id":"child-state-based-styling","similarity":0.5586},{"id":"content-based-styling","similarity":0.5468},{"id":"css","similarity":0.5747},{"id":"card","similarity":0.3865}]}
+{"timestamp":"2026-10-22T23:05:37.673Z","tool":"get_best_practices","result":[{"id":"style-parent-with-has"}]}
+{"timestamp":"2026-10-22T23:05:37.674Z","tool":"get_best_practices","result":[{"id":"validate-input-after-interaction"}]}
+{"timestamp":"2026-10-22T23:05:37.675Z","tool":"get_best_practices","result":[{"id":"forms"}]}

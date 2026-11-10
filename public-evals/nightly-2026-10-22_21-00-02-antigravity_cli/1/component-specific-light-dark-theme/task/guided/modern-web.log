@@ -1,0 +1,4 @@
+{"timestamp":"2026-10-22T21:25:47.113Z","tool":"search_use_cases","result":[{"id":"dark-mode","similarity":0.6048},{"id":"dark-mode-toggle","similarity":0.5186},{"id":"component-specific-light-dark-theme","similarity":0.591},{"id":"color","similarity":0.461},{"id":"selector-atrule-combinations","similarity":0.4023}]}
+{"timestamp":"2026-10-22T21:25:52.301Z","tool":"get_best_practices","result":[{"id":"dark-mode"}]}
+{"timestamp":"2026-10-22T21:25:52.302Z","tool":"get_best_practices","result":[{"id":"component-specific-light-dark-theme"}]}
+{"timestamp":"2026-10-22T21:25:52.303Z","tool":"get_best_practices","result":[{"id":"color"}]}

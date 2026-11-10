@@ -1,0 +1,2 @@
+{"timestamp":"2026-10-20T20:34:56.224Z","tool":"search_use_cases","result":[{"id":"parallax-scroll-effects","similarity":0.7401},{"id":"stack-drill-down","similarity":0.5412},{"id":"defer-work-until-scroll-ends","similarity":0.5093},{"id":"scroll-position-aware-elements","similarity":0.501},{"id":"scroll-entry-exit-effects","similarity":0.4967}]}
+{"timestamp":"2026-10-20T20:34:57.744Z","tool":"get_best_practices","result":[{"id":"parallax-scroll-effects"}]}

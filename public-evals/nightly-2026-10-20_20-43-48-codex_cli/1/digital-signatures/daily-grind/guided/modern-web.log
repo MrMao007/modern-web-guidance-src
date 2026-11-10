@@ -1,0 +1,2 @@
+{"timestamp":"2026-10-20T20:52:09.145Z","tool":"search_use_cases","result":[{"id":"css","similarity":0.6461},{"id":"css-layout","similarity":0.621},{"id":"size-aware-styling","similarity":0.5715},{"id":"responsive-design","similarity":0.5713},{"id":"respect-os-text-scale","similarity":0.5072}]}
+{"timestamp":"2026-10-20T20:52:16.063Z","tool":"get_best_practices","result":[{"id":"responsive-design"}]}

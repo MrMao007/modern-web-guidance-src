@@ -1,0 +1,2 @@
+{"timestamp":"2026-10-20T20:30:37.795Z","tool":"search_use_cases","result":[{"id":"scroll-snap-state-sync","similarity":0.5582},{"id":"defer-work-until-scroll-ends","similarity":0.5508},{"id":"scroll-progress-indicator","similarity":0.5269},{"id":"scrollability-affordance-hints","similarity":0.5255},{"id":"scroll-position-aware-elements","similarity":0.5238}]}
+{"timestamp":"2026-10-20T20:30:39.425Z","tool":"get_best_practices","result":[{"id":"defer-work-until-scroll-ends"}]}

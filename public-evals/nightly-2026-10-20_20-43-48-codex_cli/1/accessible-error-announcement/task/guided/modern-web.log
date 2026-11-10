@@ -1,0 +1,4 @@
+{"timestamp":"2026-10-20T20:46:08.372Z","tool":"search_use_cases","result":[{"id":"validate-input-after-interaction","similarity":0.6464},{"id":"required-field-feedback","similarity":0.6004},{"id":"style-parent-with-has","similarity":0.5014},{"id":"select-menu-interaction","similarity":0.4875},{"id":"forms","similarity":0.4709}]}
+{"timestamp":"2026-10-20T20:46:11.336Z","tool":"get_best_practices","result":[{"id":"validate-input-after-interaction"}]}
+{"timestamp":"2026-10-20T20:46:11.337Z","tool":"get_best_practices","result":[{"id":"required-field-feedback"}]}
+{"timestamp":"2026-10-20T20:46:11.338Z","tool":"get_best_practices","result":[{"id":"forms"}]}

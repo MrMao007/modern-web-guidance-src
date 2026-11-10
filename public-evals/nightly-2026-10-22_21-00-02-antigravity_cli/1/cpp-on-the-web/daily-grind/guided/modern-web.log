@@ -1,0 +1,2 @@
+{"timestamp":"2026-10-22T21:29:31.776Z","tool":"search_use_cases","result":[{"id":"cpp-on-the-web","similarity":0.7722},{"id":"security","similarity":0.2468},{"id":"webmcp","similarity":0.2862},{"id":"language-model","similarity":0.2747},{"id":"performance","similarity":0.2706}]}
+{"timestamp":"2026-10-22T21:29:37.689Z","tool":"get_best_practices","result":[{"id":"cpp-on-the-web"}]}

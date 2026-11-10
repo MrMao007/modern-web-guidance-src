@@ -1,0 +1,3 @@
+{"timestamp":"2026-10-20T20:29:21.146Z","tool":"search_use_cases","result":[{"id":"checkbox","similarity":0.5963},{"id":"css","similarity":0.5953},{"id":"child-state-based-styling","similarity":0.582},{"id":"brand-consistent-forms","similarity":0.5711},{"id":"switch","similarity":0.5509}]}
+{"timestamp":"2026-10-20T20:29:22.408Z","tool":"get_best_practices","result":[{"id":"child-state-based-styling"}]}
+{"timestamp":"2026-10-20T20:29:22.409Z","tool":"get_best_practices","result":[{"id":"checkbox"}]}

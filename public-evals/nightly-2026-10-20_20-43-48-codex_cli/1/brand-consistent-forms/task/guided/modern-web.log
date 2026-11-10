@@ -1,0 +1,3 @@
+{"timestamp":"2026-10-20T20:47:32.843Z","tool":"search_use_cases","result":[{"id":"brand-consistent-forms","similarity":0.6426},{"id":"forms","similarity":0.5543},{"id":"form-associated-custom-elements","similarity":0.536},{"id":"branded-select-styling","similarity":0.4697},{"id":"switch","similarity":0.4636}]}
+{"timestamp":"2026-10-20T20:47:35.398Z","tool":"get_best_practices","result":[{"id":"brand-consistent-forms"}]}
+{"timestamp":"2026-10-20T20:47:35.399Z","tool":"get_best_practices","result":[{"id":"forms"}]}

@@ -1,0 +1,2 @@
+{"timestamp":"2026-10-20T20:33:50.241Z","tool":"search_use_cases","result":[{"id":"lazy-load-video-and-audio","similarity":0.7589},{"id":"performance","similarity":0.5645}]}
+{"timestamp":"2026-10-20T20:33:51.390Z","tool":"get_best_practices","result":[{"id":"lazy-load-video-and-audio"}]}

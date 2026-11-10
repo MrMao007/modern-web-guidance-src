@@ -1,0 +1,9 @@
+{"timestamp":"2026-10-22T23:13:16.199Z","tool":"search_use_cases","result":[{"id":"visually-stable-mixed-fonts","similarity":0.6484},{"id":"visually-stable-font-fallbacks","similarity":0.6285},{"id":"typography","similarity":0.4547},{"id":"fluid-scaling","similarity":0.4585},{"id":"equal-width-text-lines","similarity":0.4257}]}
+{"timestamp":"2026-10-22T23:13:16.883Z","tool":"search_use_cases","result":[{"id":"visually-stable-mixed-fonts","similarity":0.4098},{"id":"visually-stable-font-fallbacks","similarity":0.3222},{"id":"responsive-design","similarity":0.3746},{"id":"performance","similarity":0.3632},{"id":"same-document-transitions","similarity":0.308}]}
+{"timestamp":"2026-10-22T23:13:20.648Z","tool":"get_best_practices","result":[{"id":"visually-stable-mixed-fonts"}]}
+{"timestamp":"2026-10-22T23:13:20.650Z","tool":"get_best_practices","result":[{"id":"visually-stable-font-fallbacks"}]}
+{"timestamp":"2026-10-22T23:13:20.650Z","tool":"get_best_practices","result":[{"id":"typography"}]}
+{"timestamp":"2026-10-22T23:13:20.651Z","tool":"get_best_practices","result":[{"id":"responsive-design"}]}
+{"timestamp":"2026-10-22T23:13:20.652Z","tool":"get_best_practices","result":[{"id":"css"}]}
+{"timestamp":"2026-10-22T23:13:34.531Z","tool":"get_best_practices","result":[{"id":"html"}]}
+{"timestamp":"2026-10-22T23:13:34.535Z","tool":"get_best_practices","result":[{"id":"accessibility"}]}

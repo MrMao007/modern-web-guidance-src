@@ -1,0 +1,5 @@
+{"timestamp":"2026-10-20T20:35:28.204Z","tool":"search_use_cases","result":[{"id":"optimize-image-priority","similarity":0.7086},{"id":"optimize-preload-priority","similarity":0.6237},{"id":"deliver-optimized-decorative-images","similarity":0.5593},{"id":"html","similarity":0.5376},{"id":"performance","similarity":0.5333}]}
+{"timestamp":"2026-10-20T20:35:28.857Z","tool":"search_use_cases","result":[{"id":"css","similarity":0.5494},{"id":"css-layout","similarity":0.5475},{"id":"responsive-design","similarity":0.5047},{"id":"respect-os-text-scale","similarity":0.455},{"id":"directional-navigation-transitions","similarity":0.4545}]}
+{"timestamp":"2026-10-20T20:35:29.519Z","tool":"search_use_cases","result":[{"id":"directional-navigation-transitions","similarity":0.4219},{"id":"motion","similarity":0.401},{"id":"physics-based-easing","similarity":0.3955},{"id":"spinner","similarity":0.3648}]}
+{"timestamp":"2026-10-20T20:35:30.859Z","tool":"get_best_practices","result":[{"id":"optimize-image-priority"}]}
+{"timestamp":"2026-10-20T20:35:30.860Z","tool":"get_best_practices","result":[{"id":"deliver-optimized-decorative-images"}]}

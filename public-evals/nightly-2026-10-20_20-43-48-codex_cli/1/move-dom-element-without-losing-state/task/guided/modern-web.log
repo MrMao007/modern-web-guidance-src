@@ -1,0 +1,2 @@
+{"timestamp":"2026-10-20T21:01:32.891Z","tool":"search_use_cases","result":[{"id":"move-dom-element-without-losing-state","similarity":0.6967},{"id":"persistent-top-layer-ui","similarity":0.5027},{"id":"security","similarity":0.4727}]}
+{"timestamp":"2026-10-20T21:01:36.249Z","tool":"get_best_practices","result":[{"id":"move-dom-element-without-losing-state"}]}

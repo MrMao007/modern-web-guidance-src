@@ -1,0 +1,3 @@
+{"timestamp":"2026-10-20T21:08:05.845Z","tool":"search_use_cases","result":[{"id":"schedule-tasks-by-priority","similarity":0.5872},{"id":"optimize-preload-priority","similarity":0.5202},{"id":"optimize-script-priority","similarity":0.5146},{"id":"break-up-long-tasks","similarity":0.5},{"id":"deprioritize-background-fetches","similarity":0.4646}]}
+{"timestamp":"2026-10-20T21:08:08.319Z","tool":"get_best_practices","result":[{"id":"schedule-tasks-by-priority"}]}
+{"timestamp":"2026-10-20T21:08:08.320Z","tool":"get_best_practices","result":[{"id":"break-up-long-tasks"}]}

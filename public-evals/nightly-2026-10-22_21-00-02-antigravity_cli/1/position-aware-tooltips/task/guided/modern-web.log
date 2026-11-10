@@ -1,0 +1,5 @@
+{"timestamp":"2026-10-22T22:33:59.728Z","tool":"search_use_cases","result":[{"id":"position-aware-tooltips","similarity":0.716},{"id":"interest-triggered-tooltips","similarity":0.6003},{"id":"persistent-toast-notifications","similarity":0.4782},{"id":"hovercard","similarity":0.4679},{"id":"menu","similarity":0.4056}]}
+{"timestamp":"2026-10-22T22:34:00.462Z","tool":"search_use_cases","result":[{"id":"position-aware-tooltips","similarity":0.5104},{"id":"atrule-support-conditionals","similarity":0.4183},{"id":"scroll-position-aware-elements","similarity":0.4325},{"id":"state-aware-sticky-headers","similarity":0.4717},{"id":"css-layout","similarity":0.4514}]}
+{"timestamp":"2026-10-22T22:34:06.402Z","tool":"get_best_practices","result":[{"id":"position-aware-tooltips"}]}
+{"timestamp":"2026-10-22T22:34:06.493Z","tool":"get_best_practices","result":[{"id":"interest-triggered-tooltips"}]}
+{"timestamp":"2026-10-22T22:34:06.495Z","tool":"get_best_practices","result":[{"id":"accessibility"}]}

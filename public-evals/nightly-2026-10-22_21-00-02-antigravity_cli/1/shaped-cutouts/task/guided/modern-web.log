@@ -1,0 +1,7 @@
+{"timestamp":"2026-10-22T22:58:04.092Z","tool":"search_use_cases","result":[{"id":"complex-shapes","similarity":0.4538},{"id":"custom-text-decorations","similarity":0.3444},{"id":"shaped-cutouts","similarity":0.3833},{"id":"overflow-clipping-control","similarity":0.3657},{"id":"progress","similarity":0.1521}]}
+{"timestamp":"2026-10-22T22:58:04.844Z","tool":"search_use_cases","result":[{"id":"shaped-cutouts","similarity":0.5828},{"id":"complex-shapes","similarity":0.4529},{"id":"visually-texture-content","similarity":0.4573},{"id":"custom-text-decorations","similarity":0.4732},{"id":"soft-edge-content-fade","similarity":0.5421}]}
+{"timestamp":"2026-10-22T22:58:09.112Z","tool":"get_best_practices","result":[{"id":"complex-shapes"}]}
+{"timestamp":"2026-10-22T22:58:09.113Z","tool":"get_best_practices","result":[{"id":"shaped-cutouts"}]}
+{"timestamp":"2026-10-22T22:58:09.114Z","tool":"get_best_practices","result":[{"id":"css"}]}
+{"timestamp":"2026-10-22T22:58:09.115Z","tool":"get_best_practices","result":[{"id":"html"}]}
+{"timestamp":"2026-10-22T22:59:16.221Z","tool":"get_best_practices","result":[{"id":"visual-effects"}]}

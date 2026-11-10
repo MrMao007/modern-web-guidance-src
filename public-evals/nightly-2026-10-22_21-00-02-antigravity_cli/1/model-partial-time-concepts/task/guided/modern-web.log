@@ -1,0 +1,2 @@
+{"timestamp":"2026-10-22T22:14:11.399Z","tool":"search_use_cases","result":[{"id":"model-partial-time-concepts","similarity":0.6258},{"id":"calculate-event-differentials","similarity":0.4848},{"id":"manage-recurring-intervals","similarity":0.5293},{"id":"capture-location-agnostic-data","similarity":0.5147},{"id":"support-global-calendar-systems","similarity":0.5052}]}
+{"timestamp":"2026-10-22T22:14:15.353Z","tool":"get_best_practices","result":[{"id":"model-partial-time-concepts"}]}

@@ -1,0 +1,4 @@
+{"timestamp":"2026-10-20T21:07:28.388Z","tool":"search_use_cases","result":[{"id":"css-layout","similarity":0.4856},{"id":"card","similarity":0.478},{"id":"size-aware-styling","similarity":0.4548},{"id":"responsive-design","similarity":0.4507},{"id":"fluid-scaling","similarity":0.4321}]}
+{"timestamp":"2026-10-20T21:07:30.595Z","tool":"get_best_practices","result":[{"id":"responsive-design"}]}
+{"timestamp":"2026-10-20T21:07:30.597Z","tool":"get_best_practices","result":[{"id":"css-layout"}]}
+{"timestamp":"2026-10-20T21:07:30.597Z","tool":"get_best_practices","result":[{"id":"size-aware-styling"}]}

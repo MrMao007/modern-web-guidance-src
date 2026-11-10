@@ -1,0 +1,4 @@
+{"timestamp":"2026-10-20T20:40:02.581Z","tool":"search_use_cases","result":[{"id":"agentic-javascript-tools","similarity":0.7575},{"id":"agentic-forms","similarity":0.6758},{"id":"webmcp","similarity":0.6213},{"id":"language-model","similarity":0.4222}]}
+{"timestamp":"2026-10-20T20:40:04.199Z","tool":"get_best_practices","result":[{"id":"webmcp"}]}
+{"timestamp":"2026-10-20T20:40:04.200Z","tool":"get_best_practices","result":[{"id":"agentic-javascript-tools"}]}
+{"timestamp":"2026-10-20T20:40:04.201Z","tool":"get_best_practices","result":[{"id":"agentic-forms"}]}

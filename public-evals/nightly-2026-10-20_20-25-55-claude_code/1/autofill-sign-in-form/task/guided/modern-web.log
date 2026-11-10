@@ -1,0 +1,2 @@
+{"timestamp":"2026-10-20T20:28:41.881Z","tool":"search_use_cases","result":[{"id":"autofill-sign-in-form","similarity":0.8083},{"id":"autofill-sign-up-form","similarity":0.8018},{"id":"autofill-address-form","similarity":0.6916},{"id":"autofill-payment-form","similarity":0.6511},{"id":"autofill-highlight-inputs","similarity":0.6443}]}
+{"timestamp":"2026-10-20T20:28:42.997Z","tool":"get_best_practices","result":[{"id":"autofill-sign-in-form"}]}

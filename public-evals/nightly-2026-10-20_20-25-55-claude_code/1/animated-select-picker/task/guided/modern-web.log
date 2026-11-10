@@ -1,0 +1,2 @@
+{"timestamp":"2026-10-20T20:28:25.763Z","tool":"search_use_cases","result":[{"id":"animated-select-picker","similarity":0.7432},{"id":"custom-select-picker-layouts","similarity":0.5184},{"id":"animate-to-intrinsic-sizes","similarity":0.4653},{"id":"branded-select-styling","similarity":0.4648},{"id":"rich-media-picker","similarity":0.4634}]}
+{"timestamp":"2026-10-20T20:28:27.203Z","tool":"get_best_practices","result":[{"id":"animated-select-picker"}]}

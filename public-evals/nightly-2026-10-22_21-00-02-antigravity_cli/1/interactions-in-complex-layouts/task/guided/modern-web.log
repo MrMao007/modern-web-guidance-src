@@ -1,0 +1,9 @@
+{"timestamp":"2026-10-22T22:05:22.647Z","tool":"search_use_cases","result":[{"id":"card","similarity":0.4935},{"id":"drag","similarity":0.4578},{"id":"interactions-in-complex-layouts","similarity":0.3649},{"id":"custom-select-picker-layouts","similarity":0.3888},{"id":"size-aware-styling","similarity":0.4213}]}
+{"timestamp":"2026-10-22T22:05:23.402Z","tool":"search_use_cases","result":[{"id":"performance","similarity":0.4171},{"id":"form-fields-automatically-fit-contents","similarity":0.4241},{"id":"responsive-design","similarity":0.4074},{"id":"interactions-in-complex-layouts","similarity":0.5869},{"id":"defer-rendering-heavy-content","similarity":0.4207}]}
+{"timestamp":"2026-10-22T22:05:27.537Z","tool":"get_best_practices","result":[{"id":"interactions-in-complex-layouts"}]}
+{"timestamp":"2026-10-22T22:05:27.539Z","tool":"get_best_practices","result":[{"id":"defer-rendering-heavy-content"}]}
+{"timestamp":"2026-10-22T22:05:27.539Z","tool":"get_best_practices","result":[{"id":"drag"}]}
+{"timestamp":"2026-10-22T22:05:27.540Z","tool":"get_best_practices","result":[{"id":"card"}]}
+{"timestamp":"2026-10-22T22:05:27.541Z","tool":"get_best_practices","result":[{"id":"performance"}]}
+{"timestamp":"2026-10-22T22:05:28.258Z","tool":"search_use_cases","result":[{"id":"move-dom-element-without-losing-state","similarity":0.5361},{"id":"persistent-top-layer-ui","similarity":0.4135},{"id":"shadow-dom","similarity":0.3567},{"id":"prerendering-custom-elements","similarity":0.4378},{"id":"web-components","similarity":0.3269}]}
+{"timestamp":"2026-10-22T22:05:40.062Z","tool":"get_best_practices","result":[{"id":"move-dom-element-without-losing-state"}]}

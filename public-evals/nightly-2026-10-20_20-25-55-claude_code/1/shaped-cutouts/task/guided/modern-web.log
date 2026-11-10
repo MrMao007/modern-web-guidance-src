@@ -1,0 +1,4 @@
+{"timestamp":"2026-10-20T20:38:05.862Z","tool":"search_use_cases","result":[{"id":"complex-shapes","similarity":0.5314},{"id":"overflow-clipping-control","similarity":0.4162}]}
+{"timestamp":"2026-10-20T20:38:06.573Z","tool":"search_use_cases","result":[{"id":"shaped-cutouts","similarity":0.7238},{"id":"complex-shapes","similarity":0.7068},{"id":"overflow-clipping-control","similarity":0.5311},{"id":"custom-text-decorations","similarity":0.5053},{"id":"visually-texture-content","similarity":0.4985}]}
+{"timestamp":"2026-10-20T20:38:08.154Z","tool":"get_best_practices","result":[{"id":"complex-shapes"}]}
+{"timestamp":"2026-10-20T20:38:08.155Z","tool":"get_best_practices","result":[{"id":"shaped-cutouts"}]}

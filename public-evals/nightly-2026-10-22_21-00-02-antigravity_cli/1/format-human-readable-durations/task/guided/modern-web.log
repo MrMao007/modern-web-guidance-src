@@ -1,0 +1,4 @@
+{"timestamp":"2026-10-22T21:56:29.905Z","tool":"search_use_cases","result":[{"id":"format-human-readable-durations","similarity":0.6571},{"id":"calculate-event-differentials","similarity":0.409},{"id":"sequence-distributed-events","similarity":0.3575},{"id":"model-partial-time-concepts","similarity":0.3566},{"id":"manage-recurring-intervals","similarity":0.2863}]}
+{"timestamp":"2026-10-22T21:56:51.387Z","tool":"get_best_practices","result":[{"id":"format-human-readable-durations"}]}
+{"timestamp":"2026-10-22T21:56:51.389Z","tool":"get_best_practices","result":[{"id":"forms"}]}
+{"timestamp":"2026-10-22T21:56:51.390Z","tool":"get_best_practices","result":[{"id":"html"}]}

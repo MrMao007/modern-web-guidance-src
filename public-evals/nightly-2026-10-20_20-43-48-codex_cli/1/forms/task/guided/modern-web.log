@@ -1,0 +1,3 @@
+{"timestamp":"2026-10-20T20:55:19.968Z","tool":"search_use_cases","result":[{"id":"validate-input-after-interaction","similarity":0.5374},{"id":"accessibility","similarity":0.536},{"id":"accessible-error-announcement","similarity":0.5061},{"id":"forms","similarity":0.4856},{"id":"required-field-feedback","similarity":0.4302}]}
+{"timestamp":"2026-10-20T20:55:26.449Z","tool":"get_best_practices","result":[{"id":"forms"}]}
+{"timestamp":"2026-10-20T20:55:26.450Z","tool":"get_best_practices","result":[{"id":"accessibility"}]}

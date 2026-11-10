@@ -1,0 +1,4 @@
+{"timestamp":"2026-10-20T21:10:11.158Z","tool":"search_use_cases","result":[{"id":"search-hidden-content","similarity":0.4525},{"id":"accessibility","similarity":0.4211},{"id":"pull-to-reveal","similarity":0.3957},{"id":"spatial-navigation","similarity":0.3558}]}
+{"timestamp":"2026-10-20T21:10:11.166Z","tool":"search_use_cases","result":[{"id":"search-hidden-content","similarity":0.6841},{"id":"interactive-content-reveal","similarity":0.5954},{"id":"pull-to-reveal","similarity":0.5588},{"id":"defer-rendering-heavy-content","similarity":0.517},{"id":"faster-spa-view-transitions","similarity":0.4807}]}
+{"timestamp":"2026-10-20T21:10:13.560Z","tool":"get_best_practices","result":[{"id":"search-hidden-content"}]}
+{"timestamp":"2026-10-20T21:10:13.562Z","tool":"get_best_practices","result":[{"id":"accessibility"}]}

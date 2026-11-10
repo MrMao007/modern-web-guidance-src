@@ -1,0 +1,3 @@
+{"timestamp":"2026-10-20T20:32:24.842Z","tool":"search_use_cases","result":[{"id":"scoped-component-transitions","similarity":0.6513},{"id":"animate-element-entry-exit","similarity":0.5867},{"id":"same-document-transitions","similarity":0.5652},{"id":"group-element-transitions","similarity":0.5604},{"id":"animate-to-from-top-layer","similarity":0.5309}]}
+{"timestamp":"2026-10-20T20:32:26.730Z","tool":"get_best_practices","result":[{"id":"group-element-transitions"}]}
+{"timestamp":"2026-10-20T20:32:26.732Z","tool":"get_best_practices","result":[{"id":"same-document-transitions"}]}

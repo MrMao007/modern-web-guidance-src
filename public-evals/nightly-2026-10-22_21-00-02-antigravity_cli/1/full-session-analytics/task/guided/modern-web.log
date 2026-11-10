@@ -1,0 +1,4 @@
+{"timestamp":"2026-10-22T21:57:24.511Z","tool":"search_use_cases","result":[{"id":"batch-analytics-events","similarity":0.5744},{"id":"full-session-analytics","similarity":0.4879},{"id":"identify-heavy-scripts","similarity":0.3278},{"id":"identify-inp-causes","similarity":0.2922},{"id":"deprioritize-background-fetches","similarity":0.32}]}
+{"timestamp":"2026-10-22T21:57:28.457Z","tool":"get_best_practices","result":[{"id":"full-session-analytics"}]}
+{"timestamp":"2026-10-22T21:57:28.459Z","tool":"get_best_practices","result":[{"id":"batch-analytics-events"}]}
+{"timestamp":"2026-10-22T21:57:28.459Z","tool":"get_best_practices","result":[{"id":"performance"}]}

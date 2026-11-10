@@ -1,0 +1,6 @@
+{"timestamp":"2026-10-22T22:29:16.869Z","tool":"search_use_cases","result":[{"id":"persistent-toast-notifications","similarity":0.7676},{"id":"declarative-dialog-popover-control","similarity":0.5069},{"id":"menu","similarity":0.4751},{"id":"animate-to-from-top-layer","similarity":0.4733},{"id":"interest-triggered-tooltips","similarity":0.4702}]}
+{"timestamp":"2026-10-22T22:29:20.315Z","tool":"get_best_practices","result":[{"id":"persistent-toast-notifications"}]}
+{"timestamp":"2026-10-22T22:29:20.317Z","tool":"get_best_practices","result":[{"id":"animate-to-from-top-layer"}]}
+{"timestamp":"2026-10-22T22:30:00.746Z","tool":"search_use_cases","result":[{"id":"dynamic-sibling-animations","similarity":0.5397},{"id":"dynamic-sibling-styling","similarity":0.6025},{"id":"persistent-toast-notifications","similarity":0.24},{"id":"parallax-scroll-effects","similarity":0.245},{"id":"accessibility","similarity":0.3564}]}
+{"timestamp":"2026-10-22T22:30:04.322Z","tool":"get_best_practices","result":[{"id":"dynamic-sibling-styling"}]}
+{"timestamp":"2026-10-22T22:30:04.324Z","tool":"get_best_practices","result":[{"id":"dynamic-sibling-animations"}]}

@@ -1,0 +1,3 @@
+{"timestamp":"2026-10-20T20:54:20.439Z","tool":"search_use_cases","result":[{"id":"flicker-free-client-side-ab-testing","similarity":0.5037},{"id":"dark-mode","similarity":0.4989},{"id":"defer-rendering-heavy-content","similarity":0.4179},{"id":"security","similarity":0.4158},{"id":"html","similarity":0.3984}]}
+{"timestamp":"2026-10-20T20:54:23.568Z","tool":"get_best_practices","result":[{"id":"flicker-free-client-side-ab-testing"}]}
+{"timestamp":"2026-10-20T20:54:23.570Z","tool":"get_best_practices","result":[{"id":"html"}]}

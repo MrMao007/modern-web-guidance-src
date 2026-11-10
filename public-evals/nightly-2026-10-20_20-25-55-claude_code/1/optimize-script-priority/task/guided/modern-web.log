@@ -1,0 +1,2 @@
+{"timestamp":"2026-10-20T20:34:38.349Z","tool":"search_use_cases","result":[{"id":"optimize-script-priority","similarity":0.5337},{"id":"performance","similarity":0.507},{"id":"flicker-free-client-side-ab-testing","similarity":0.5046},{"id":"consistent-cross-document-transitions","similarity":0.4772},{"id":"detect-initial-visibility-state","similarity":0.4401}]}
+{"timestamp":"2026-10-20T20:34:40.178Z","tool":"get_best_practices","result":[{"id":"optimize-script-priority"}]}

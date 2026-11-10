@@ -1,0 +1,4 @@
+{"timestamp":"2026-10-22T21:27:28.956Z","tool":"search_use_cases","result":[{"id":"consistent-cross-document-transitions","similarity":0.6135},{"id":"cross-document-transitions","similarity":0.6},{"id":"motion","similarity":0.5069},{"id":"physics-based-easing","similarity":0.5271},{"id":"same-document-transitions","similarity":0.5815}]}
+{"timestamp":"2026-10-22T21:27:41.187Z","tool":"get_best_practices","result":[{"id":"consistent-cross-document-transitions"}]}
+{"timestamp":"2026-10-22T21:27:41.189Z","tool":"get_best_practices","result":[{"id":"cross-document-transitions"}]}
+{"timestamp":"2026-10-22T21:27:41.189Z","tool":"get_best_practices","result":[{"id":"motion"}]}

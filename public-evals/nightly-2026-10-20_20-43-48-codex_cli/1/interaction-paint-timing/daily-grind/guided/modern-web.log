@@ -1,0 +1,2 @@
+{"timestamp":"2026-10-20T20:57:57.873Z","tool":"search_use_cases","result":[{"id":"interactions-in-complex-layouts","similarity":0.5385},{"id":"interaction-paint-timing","similarity":0.5151},{"id":"identify-inp-causes","similarity":0.4306}]}
+{"timestamp":"2026-10-20T20:58:00.117Z","tool":"get_best_practices","result":[{"id":"interaction-paint-timing"}]}

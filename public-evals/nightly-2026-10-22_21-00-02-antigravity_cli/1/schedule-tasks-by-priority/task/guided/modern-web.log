@@ -1,0 +1,4 @@
+{"timestamp":"2026-10-22T22:46:17.673Z","tool":"search_use_cases","result":[{"id":"schedule-tasks-by-priority","similarity":0.7287},{"id":"performance","similarity":0.498},{"id":"break-up-long-tasks","similarity":0.4714},{"id":"stabilize-reactive-state","similarity":0.3497},{"id":"language-model","similarity":0.3127}]}
+{"timestamp":"2026-10-22T22:46:30.308Z","tool":"get_best_practices","result":[{"id":"schedule-tasks-by-priority"}]}
+{"timestamp":"2026-10-22T22:46:30.310Z","tool":"get_best_practices","result":[{"id":"break-up-long-tasks"}]}
+{"timestamp":"2026-10-22T22:46:30.310Z","tool":"get_best_practices","result":[{"id":"performance"}]}

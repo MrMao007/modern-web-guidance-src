@@ -1,0 +1,2 @@
+{"timestamp":"2026-10-20T21:12:19.550Z","tool":"search_use_cases","result":[{"id":"state-aware-sticky-headers","similarity":0.6793},{"id":"responsive-table","similarity":0.5417},{"id":"shrinking-header-on-scroll","similarity":0.4224}]}
+{"timestamp":"2026-10-20T21:12:21.766Z","tool":"get_best_practices","result":[{"id":"state-aware-sticky-headers"}]}

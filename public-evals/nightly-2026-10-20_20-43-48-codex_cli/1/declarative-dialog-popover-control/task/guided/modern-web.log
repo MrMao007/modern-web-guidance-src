@@ -1,0 +1,4 @@
+{"timestamp":"2026-10-20T20:51:20.379Z","tool":"search_use_cases","result":[{"id":"declarative-dialog-popover-control","similarity":0.7156},{"id":"viewport-aware-dropdowns","similarity":0.5466},{"id":"animate-to-from-top-layer","similarity":0.5356},{"id":"persistent-toast-notifications","similarity":0.5258},{"id":"interest-triggered-tooltips","similarity":0.524}]}
+{"timestamp":"2026-10-20T20:51:20.443Z","tool":"search_use_cases","result":[{"id":"declarative-dialog-popover-control","similarity":0.5586},{"id":"light-dismiss-a-dialog","similarity":0.4753},{"id":"accessibility","similarity":0.4614},{"id":"html","similarity":0.4573},{"id":"drag","similarity":0.4347}]}
+{"timestamp":"2026-10-20T20:51:23.205Z","tool":"get_best_practices","result":[{"id":"declarative-dialog-popover-control"}]}
+{"timestamp":"2026-10-20T20:51:23.207Z","tool":"get_best_practices","result":[{"id":"html"}]}

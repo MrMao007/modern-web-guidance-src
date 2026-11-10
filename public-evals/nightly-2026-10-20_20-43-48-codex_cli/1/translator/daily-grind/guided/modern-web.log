@@ -1,0 +1,2 @@
+{"timestamp":"2026-10-20T21:13:45.533Z","tool":"search_use_cases","result":[{"id":"accessibility","similarity":0.5045},{"id":"accessible-error-announcement","similarity":0.4892},{"id":"forms","similarity":0.443},{"id":"form-associated-custom-elements","similarity":0.4192},{"id":"required-field-feedback","similarity":0.3999}]}
+{"timestamp":"2026-10-20T21:13:50.729Z","tool":"get_best_practices","result":[{"id":"forms"}]}

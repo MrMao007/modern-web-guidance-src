@@ -1,0 +1,7 @@
+{"timestamp":"2026-10-22T22:50:22.858Z","tool":"search_use_cases","result":[{"id":"scroll-snap-state-sync","similarity":0.6355},{"id":"scrollspy","similarity":0.4719},{"id":"scroll-snap-realtime-feedback","similarity":0.432},{"id":"carousel-snap-highlights","similarity":0.4547},{"id":"responsive-table","similarity":0.4286}]}
+{"timestamp":"2026-10-22T22:50:29.006Z","tool":"get_best_practices","result":[{"id":"scroll-snap-state-sync"}]}
+{"timestamp":"2026-10-22T22:50:29.008Z","tool":"get_best_practices","result":[{"id":"scrollspy"}]}
+{"timestamp":"2026-10-22T22:50:29.008Z","tool":"get_best_practices","result":[{"id":"accessibility"}]}
+{"timestamp":"2026-10-22T22:50:29.010Z","tool":"get_best_practices","result":[{"id":"css"}]}
+{"timestamp":"2026-10-22T22:50:29.011Z","tool":"get_best_practices","result":[{"id":"html"}]}
+{"timestamp":"2026-10-22T22:50:54.137Z","tool":"get_best_practices","result":[{"id":"motion"}]}

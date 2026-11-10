@@ -1,0 +1,2 @@
+{"timestamp":"2026-10-20T21:09:34.006Z","tool":"search_use_cases","result":[{"id":"scrollability-affordance-hints","similarity":0.6278},{"id":"scroll-progress-indicator","similarity":0.6223},{"id":"scroll-position-aware-elements","similarity":0.5904},{"id":"scrollytelling","similarity":0.5582},{"id":"carousel-slide-effects","similarity":0.5469}]}
+{"timestamp":"2026-10-20T21:09:37.246Z","tool":"get_best_practices","result":[{"id":"scrollability-affordance-hints"}]}

@@ -1,0 +1,2 @@
+{"timestamp":"2026-10-20T21:02:13.401Z","tool":"search_use_cases","result":[{"id":"overflow-clipping-control","similarity":0.564},{"id":"complex-shapes","similarity":0.5408},{"id":"shaped-cutouts","similarity":0.478},{"id":"custom-text-decorations","similarity":0.4503},{"id":"soft-edge-content-fade","similarity":0.4281}]}
+{"timestamp":"2026-10-20T21:02:16.174Z","tool":"get_best_practices","result":[{"id":"overflow-clipping-control"}]}

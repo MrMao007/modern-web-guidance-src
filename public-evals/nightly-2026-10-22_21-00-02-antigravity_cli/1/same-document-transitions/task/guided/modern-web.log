@@ -1,0 +1,4 @@
+{"timestamp":"2026-10-22T22:44:15.811Z","tool":"search_use_cases","result":[{"id":"hovercard","similarity":0.5177},{"id":"motion","similarity":0.5464},{"id":"scoped-component-transitions","similarity":0.5322},{"id":"same-document-transitions","similarity":0.5107},{"id":"group-element-transitions","similarity":0.5089}]}
+{"timestamp":"2026-10-22T22:44:19.971Z","tool":"get_best_practices","result":[{"id":"same-document-transitions"}]}
+{"timestamp":"2026-10-22T22:44:19.973Z","tool":"get_best_practices","result":[{"id":"motion"}]}
+{"timestamp":"2026-10-22T22:44:19.973Z","tool":"get_best_practices","result":[{"id":"accessibility"}]}

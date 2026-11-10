@@ -1,0 +1,5 @@
+{"timestamp":"2026-10-22T22:32:56.839Z","tool":"search_use_cases","result":[{"id":"physics-based-easing","similarity":0.6691},{"id":"group-element-transitions","similarity":0.4246},{"id":"same-document-transitions","similarity":0.4085},{"id":"animate-element-entry-exit","similarity":0.374},{"id":"directional-navigation-transitions","similarity":0.4181}]}
+{"timestamp":"2026-10-22T22:33:01.160Z","tool":"get_best_practices","result":[{"id":"physics-based-easing"}]}
+{"timestamp":"2026-10-22T22:33:01.161Z","tool":"get_best_practices","result":[{"id":"css"}]}
+{"timestamp":"2026-10-22T22:33:01.163Z","tool":"get_best_practices","result":[{"id":"accessibility"}]}
+{"timestamp":"2026-10-22T22:33:08.868Z","tool":"get_best_practices","result":[{"id":"motion"}]}

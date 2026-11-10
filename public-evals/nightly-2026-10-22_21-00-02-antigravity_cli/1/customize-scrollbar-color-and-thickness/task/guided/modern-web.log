@@ -1,0 +1,5 @@
+{"timestamp":"2026-10-22T21:36:33.779Z","tool":"search_use_cases","result":[{"id":"customize-scrollbar-color-and-thickness","similarity":0.7585},{"id":"adapt-scrollbar-to-contrast-preferences","similarity":0.6245},{"id":"dark-mode","similarity":0.6529},{"id":"browser-ui-theming","similarity":0.4579},{"id":"progress","similarity":0.3975}]}
+{"timestamp":"2026-10-22T21:36:37.834Z","tool":"get_best_practices","result":[{"id":"customize-scrollbar-color-and-thickness"}]}
+{"timestamp":"2026-10-22T21:36:37.835Z","tool":"get_best_practices","result":[{"id":"browser-ui-theming"}]}
+{"timestamp":"2026-10-22T21:36:37.836Z","tool":"get_best_practices","result":[{"id":"css"}]}
+{"timestamp":"2026-10-22T21:36:37.838Z","tool":"get_best_practices","result":[{"id":"accessibility"}]}

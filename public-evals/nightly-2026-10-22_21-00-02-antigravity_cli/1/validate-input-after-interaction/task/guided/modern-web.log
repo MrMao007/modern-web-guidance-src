@@ -1,0 +1,5 @@
+{"timestamp":"2026-10-22T23:10:44.715Z","tool":"search_use_cases","result":[{"id":"validate-input-after-interaction","similarity":0.5819},{"id":"forms","similarity":0.444},{"id":"style-parent-with-has","similarity":0.4702},{"id":"required-field-feedback","similarity":0.5864},{"id":"accessible-error-announcement","similarity":0.4206}]}
+{"timestamp":"2026-10-22T23:10:49.381Z","tool":"get_best_practices","result":[{"id":"validate-input-after-interaction"}]}
+{"timestamp":"2026-10-22T23:10:49.382Z","tool":"get_best_practices","result":[{"id":"forms"}]}
+{"timestamp":"2026-10-22T23:10:49.383Z","tool":"get_best_practices","result":[{"id":"required-field-feedback"}]}
+{"timestamp":"2026-10-22T23:10:49.384Z","tool":"get_best_practices","result":[{"id":"accessible-error-announcement"}]}

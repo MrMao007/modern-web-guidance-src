@@ -1,0 +1,4 @@
+{"timestamp":"2026-10-22T21:31:32.360Z","tool":"search_use_cases","result":[{"id":"motion","similarity":0.6218},{"id":"consistent-cross-document-transitions","similarity":0.5964},{"id":"directional-navigation-transitions","similarity":0.584},{"id":"cross-document-transitions","similarity":0.6916},{"id":"animate-element-entry-exit","similarity":0.6631}]}
+{"timestamp":"2026-10-22T21:31:48.550Z","tool":"get_best_practices","result":[{"id":"cross-document-transitions"}]}
+{"timestamp":"2026-10-22T21:31:48.552Z","tool":"get_best_practices","result":[{"id":"directional-navigation-transitions"}]}
+{"timestamp":"2026-10-22T21:31:48.553Z","tool":"get_best_practices","result":[{"id":"motion"}]}

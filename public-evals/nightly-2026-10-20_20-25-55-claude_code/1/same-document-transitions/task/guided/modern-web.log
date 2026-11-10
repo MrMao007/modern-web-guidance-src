@@ -1,0 +1,2 @@
+{"timestamp":"2026-10-20T20:36:46.024Z","tool":"search_use_cases","result":[{"id":"same-document-transitions","similarity":0.6605},{"id":"group-element-transitions","similarity":0.6517},{"id":"cross-document-transitions","similarity":0.622},{"id":"directional-navigation-transitions","similarity":0.6187},{"id":"scoped-component-transitions","similarity":0.6121}]}
+{"timestamp":"2026-10-20T20:36:47.060Z","tool":"get_best_practices","result":[{"id":"same-document-transitions"}]}

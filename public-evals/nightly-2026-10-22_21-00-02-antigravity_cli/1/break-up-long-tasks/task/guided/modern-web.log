@@ -1,0 +1,4 @@
+{"timestamp":"2026-10-22T21:17:05.151Z","tool":"search_use_cases","result":[{"id":"break-up-long-tasks","similarity":0.587},{"id":"performance","similarity":0.3194},{"id":"schedule-tasks-by-priority","similarity":0.3378},{"id":"language-model","similarity":0.296},{"id":"cpp-on-the-web","similarity":0.2519}]}
+{"timestamp":"2026-10-22T21:17:13.093Z","tool":"get_best_practices","result":[{"id":"break-up-long-tasks"}]}
+{"timestamp":"2026-10-22T21:17:13.094Z","tool":"get_best_practices","result":[{"id":"schedule-tasks-by-priority"}]}
+{"timestamp":"2026-10-22T21:17:13.094Z","tool":"get_best_practices","result":[{"id":"performance"}]}

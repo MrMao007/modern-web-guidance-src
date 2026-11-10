@@ -1,0 +1,5 @@
+{"timestamp":"2026-10-22T22:16:27.278Z","tool":"search_use_cases","result":[{"id":"navigation-drawer","similarity":0.6569},{"id":"directional-navigation-transitions","similarity":0.3792},{"id":"menu","similarity":0.3906},{"id":"html","similarity":0.461},{"id":"swipe-to-reveal","similarity":0.3854}]}
+{"timestamp":"2026-10-22T22:16:28.031Z","tool":"search_use_cases","result":[{"id":"platform-controls-dismiss-dialog","similarity":0.6246},{"id":"light-dismiss-a-dialog","similarity":0.6079},{"id":"navigation-drawer","similarity":0.5455},{"id":"html","similarity":0.4698},{"id":"swipe-to-reveal","similarity":0.5438}]}
+{"timestamp":"2026-10-22T22:16:28.767Z","tool":"search_use_cases","result":[{"id":"light-dismiss-a-dialog","similarity":0.8311},{"id":"platform-controls-dismiss-dialog","similarity":0.6188},{"id":"html","similarity":0.6319},{"id":"animate-to-from-top-layer","similarity":0.5476},{"id":"declarative-dialog-popover-control","similarity":0.5039}]}
+{"timestamp":"2026-10-22T22:16:45.865Z","tool":"get_best_practices","result":[{"id":"navigation-drawer"}]}
+{"timestamp":"2026-10-22T22:16:45.866Z","tool":"get_best_practices","result":[{"id":"html"}]}

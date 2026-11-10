@@ -1,0 +1,2 @@
+{"timestamp":"2026-10-22T21:39:51.975Z","tool":"search_use_cases","result":[{"id":"defer-rendering-heavy-content","similarity":0.7138},{"id":"efficient-background-processing","similarity":0.4792},{"id":"flicker-free-client-side-ab-testing","similarity":0.4495},{"id":"performance","similarity":0.4448},{"id":"defer-work-until-scroll-ends","similarity":0.4342}]}
+{"timestamp":"2026-10-22T21:40:06.993Z","tool":"get_best_practices","result":[{"id":"defer-rendering-heavy-content"}]}

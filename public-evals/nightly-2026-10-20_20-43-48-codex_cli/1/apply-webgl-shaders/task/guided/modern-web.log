@@ -1,0 +1,2 @@
+{"timestamp":"2026-10-20T20:47:00.955Z","tool":"search_use_cases","result":[{"id":"apply-webgl-shaders","similarity":0.5322},{"id":"export-html-media-from-canvas","similarity":0.4472},{"id":"expose-canvas-content-to-browser-features","similarity":0.4467}]}
+{"timestamp":"2026-10-20T20:47:03.405Z","tool":"get_best_practices","result":[{"id":"apply-webgl-shaders"}]}

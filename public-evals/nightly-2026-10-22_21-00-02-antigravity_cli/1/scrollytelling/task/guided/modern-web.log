@@ -1,0 +1,2 @@
+{"timestamp":"2026-10-22T22:54:52.797Z","tool":"search_use_cases","result":[{"id":"scrollytelling","similarity":0.6964},{"id":"shrinking-header-on-scroll","similarity":0.6275},{"id":"carousel-slide-effects","similarity":0.6628},{"id":"parallax-scroll-effects","similarity":0.6659},{"id":"scroll-completion-effects","similarity":0.6264}]}
+{"timestamp":"2026-10-22T22:54:58.350Z","tool":"get_best_practices","result":[{"id":"scrollytelling"}]}

@@ -1,0 +1,2 @@
+{"timestamp":"2026-10-20T20:34:31.375Z","tool":"search_use_cases","result":[{"id":"optimize-image-priority","similarity":0.7099},{"id":"optimize-preload-priority","similarity":0.6313},{"id":"performance","similarity":0.5697},{"id":"deliver-optimized-decorative-images","similarity":0.5508},{"id":"html","similarity":0.5332}]}
+{"timestamp":"2026-10-20T20:34:32.337Z","tool":"get_best_practices","result":[{"id":"optimize-image-priority"}]}

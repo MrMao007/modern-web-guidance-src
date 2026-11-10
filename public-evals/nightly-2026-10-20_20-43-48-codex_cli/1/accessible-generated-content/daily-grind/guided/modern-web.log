@@ -1,0 +1,4 @@
+{"timestamp":"2026-10-20T20:46:06.019Z","tool":"search_use_cases","result":[{"id":"accessible-generated-content","similarity":0.6579},{"id":"css","similarity":0.6396},{"id":"accessibility","similarity":0.5911},{"id":"interactions-in-complex-layouts","similarity":0.4305}]}
+{"timestamp":"2026-10-20T20:46:08.517Z","tool":"get_best_practices","result":[{"id":"accessible-generated-content"}]}
+{"timestamp":"2026-10-20T20:46:08.518Z","tool":"get_best_practices","result":[{"id":"accessibility"}]}
+{"timestamp":"2026-10-20T20:46:08.519Z","tool":"get_best_practices","result":[{"id":"css"}]}

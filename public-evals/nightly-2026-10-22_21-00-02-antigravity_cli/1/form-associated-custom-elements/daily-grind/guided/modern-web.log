@@ -1,0 +1,4 @@
+{"timestamp":"2026-10-22T21:55:00.168Z","tool":"search_use_cases","result":[{"id":"form-associated-custom-elements","similarity":0.6708},{"id":"ime-safe-enter-submit","similarity":0.3615},{"id":"agentic-forms","similarity":0.3886},{"id":"custom-select-picker-layouts","similarity":0.3055},{"id":"accessibility","similarity":0.4214}]}
+{"timestamp":"2026-10-22T21:55:07.116Z","tool":"get_best_practices","result":[{"id":"form-associated-custom-elements"}]}
+{"timestamp":"2026-10-22T21:55:07.117Z","tool":"get_best_practices","result":[{"id":"forms"}]}
+{"timestamp":"2026-10-22T21:55:07.118Z","tool":"get_best_practices","result":[{"id":"html"}]}

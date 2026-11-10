@@ -1,0 +1,6 @@
+{"timestamp":"2026-10-22T21:53:47.806Z","tool":"search_use_cases","result":[{"id":"flicker-free-client-side-ab-testing","similarity":0.5435},{"id":"consistent-cross-document-transitions","similarity":0.5431},{"id":"performance","similarity":0.413},{"id":"identify-heavy-scripts","similarity":0.3252},{"id":"out-of-order-html-streaming","similarity":0.3437}]}
+{"timestamp":"2026-10-22T21:53:48.605Z","tool":"search_use_cases","result":[{"id":"dark-mode","similarity":0.5415},{"id":"consistent-cross-document-transitions","similarity":0.4497},{"id":"carousel-snap-highlights","similarity":0.4015},{"id":"flicker-free-client-side-ab-testing","similarity":0.4459},{"id":"dark-mode-toggle","similarity":0.4227}]}
+{"timestamp":"2026-10-22T21:54:04.676Z","tool":"get_best_practices","result":[{"id":"flicker-free-client-side-ab-testing"}]}
+{"timestamp":"2026-10-22T21:54:04.677Z","tool":"get_best_practices","result":[{"id":"performance"}]}
+{"timestamp":"2026-10-22T21:54:04.678Z","tool":"get_best_practices","result":[{"id":"html"}]}
+{"timestamp":"2026-10-22T21:54:04.680Z","tool":"get_best_practices","result":[{"id":"css"}]}

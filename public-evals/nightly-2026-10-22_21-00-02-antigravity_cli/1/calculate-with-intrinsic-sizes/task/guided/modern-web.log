@@ -1,0 +1,5 @@
+{"timestamp":"2026-10-22T21:20:33.406Z","tool":"search_use_cases","result":[{"id":"animate-to-intrinsic-sizes","similarity":0.5739},{"id":"shrinking-header-on-scroll","similarity":0.4733},{"id":"calculate-with-intrinsic-sizes","similarity":0.4934},{"id":"animated-select-picker","similarity":0.3852},{"id":"carousel-slide-effects","similarity":0.3789}]}
+{"timestamp":"2026-10-22T21:20:34.114Z","tool":"search_use_cases","result":[{"id":"calculate-with-intrinsic-sizes","similarity":0.7286},{"id":"animate-to-intrinsic-sizes","similarity":0.5248},{"id":"fluid-scaling","similarity":0.4178},{"id":"css-layout","similarity":0.2908},{"id":"defer-rendering-heavy-content","similarity":0.3305}]}
+{"timestamp":"2026-10-22T21:20:42.668Z","tool":"get_best_practices","result":[{"id":"animate-to-intrinsic-sizes"}]}
+{"timestamp":"2026-10-22T21:20:42.669Z","tool":"get_best_practices","result":[{"id":"calculate-with-intrinsic-sizes"}]}
+{"timestamp":"2026-10-22T21:20:42.670Z","tool":"get_best_practices","result":[{"id":"css-layout"}]}

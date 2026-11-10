@@ -1,0 +1,4 @@
+{"timestamp":"2026-10-22T22:20:14.133Z","tool":"search_use_cases","result":[{"id":"passkey-management","similarity":0.6358},{"id":"passkey-registration","similarity":0.6075},{"id":"passkeys","similarity":0.5735},{"id":"passkey-reauthentication","similarity":0.5701},{"id":"quick-sign-ins","similarity":0.4571}]}
+{"timestamp":"2026-10-22T22:20:22.338Z","tool":"get_best_practices","result":[{"id":"passkey-management"}]}
+{"timestamp":"2026-10-22T22:20:22.339Z","tool":"get_best_practices","result":[{"id":"passkeys"}]}
+{"timestamp":"2026-10-22T22:20:37.945Z","tool":"get_best_practices","result":[{"id":"passkey-registration"}]}

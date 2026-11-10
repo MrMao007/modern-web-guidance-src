@@ -1,0 +1,2 @@
+{"timestamp":"2026-10-22T21:11:28.972Z","tool":"search_use_cases","result":[{"id":"apply-webgl-shaders","similarity":0.7987},{"id":"export-html-media-from-canvas","similarity":0.5087},{"id":"interactive-content-in-3d-scenes","similarity":0.4489},{"id":"expose-canvas-content-to-browser-features","similarity":0.4856},{"id":"dark-mode","similarity":0.3329}]}
+{"timestamp":"2026-10-22T21:11:35.466Z","tool":"get_best_practices","result":[{"id":"apply-webgl-shaders"}]}

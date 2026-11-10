@@ -1,0 +1,2 @@
+{"timestamp":"2026-10-20T20:54:20.707Z","tool":"search_use_cases","result":[{"id":"fluid-scaling","similarity":0.6317},{"id":"respect-os-text-scale","similarity":0.5659},{"id":"typography","similarity":0.5185},{"id":"responsive-design","similarity":0.503},{"id":"css-layout","similarity":0.4867}]}
+{"timestamp":"2026-10-20T20:54:24.138Z","tool":"get_best_practices","result":[{"id":"fluid-scaling"}]}

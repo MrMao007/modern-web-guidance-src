@@ -1,0 +1,4 @@
+{"timestamp":"2026-10-22T23:01:00.880Z","tool":"search_use_cases","result":[{"id":"slider","similarity":0.7986},{"id":"highlight-text-ranges","similarity":0.4878},{"id":"brand-consistent-forms","similarity":0.4731},{"id":"browser-ui-theming","similarity":0.4303},{"id":"navigation-drawer","similarity":0.3454}]}
+{"timestamp":"2026-10-22T23:01:09.911Z","tool":"get_best_practices","result":[{"id":"slider"}]}
+{"timestamp":"2026-10-22T23:01:09.912Z","tool":"get_best_practices","result":[{"id":"forms"}]}
+{"timestamp":"2026-10-22T23:01:09.914Z","tool":"get_best_practices","result":[{"id":"accessibility"}]}

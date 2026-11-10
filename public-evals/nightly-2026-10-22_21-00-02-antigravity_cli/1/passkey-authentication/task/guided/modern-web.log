@@ -1,0 +1,8 @@
+{"timestamp":"2026-10-22T22:19:16.405Z","tool":"search_use_cases","result":[{"id":"passkey-authentication","similarity":0.6915},{"id":"passkeys","similarity":0.5911},{"id":"passkey-conditional-create","similarity":0.6261},{"id":"passkey-reauthentication","similarity":0.5758},{"id":"passkey-management","similarity":0.5492}]}
+{"timestamp":"2026-10-22T22:19:20.114Z","tool":"get_best_practices","result":[{"id":"passkey-authentication"}]}
+{"timestamp":"2026-10-22T22:19:20.115Z","tool":"get_best_practices","result":[{"id":"passkeys"}]}
+{"timestamp":"2026-10-22T22:19:35.614Z","tool":"get_best_practices","result":[{"id":"passkey-registration"}]}
+{"timestamp":"2026-10-22T22:19:35.616Z","tool":"get_best_practices","result":[{"id":"passkey-conditional-create"}]}
+{"timestamp":"2026-10-22T22:19:35.617Z","tool":"get_best_practices","result":[{"id":"passkey-reauthentication"}]}
+{"timestamp":"2026-10-22T22:19:35.617Z","tool":"get_best_practices","result":[{"id":"passkey-management"}]}
+{"timestamp":"2026-10-22T22:19:45.752Z","tool":"get_best_practices","result":[{"id":"quick-sign-ins"}]}

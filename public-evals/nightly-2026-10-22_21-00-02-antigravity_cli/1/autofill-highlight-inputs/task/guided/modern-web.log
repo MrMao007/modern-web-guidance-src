@@ -1,0 +1,4 @@
+{"timestamp":"2026-10-22T21:12:42.106Z","tool":"search_use_cases","result":[{"id":"autofill-highlight-inputs","similarity":0.7763},{"id":"autofill-sign-in-form","similarity":0.6427},{"id":"autofill-sign-up-form","similarity":0.6304},{"id":"autofill-address-form","similarity":0.6657},{"id":"autofill-payment-form","similarity":0.6486}]}
+{"timestamp":"2026-10-22T21:12:58.156Z","tool":"get_best_practices","result":[{"id":"autofill-highlight-inputs"}]}
+{"timestamp":"2026-10-22T21:12:58.158Z","tool":"get_best_practices","result":[{"id":"forms"}]}
+{"timestamp":"2026-10-22T21:12:58.159Z","tool":"get_best_practices","result":[{"id":"css"}]}

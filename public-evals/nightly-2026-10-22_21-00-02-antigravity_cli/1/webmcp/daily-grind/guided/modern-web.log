@@ -1,0 +1,4 @@
+{"timestamp":"2026-10-22T23:15:00.582Z","tool":"search_use_cases","result":[{"id":"webmcp","similarity":0.6501},{"id":"agentic-forms","similarity":0.4706},{"id":"agentic-javascript-tools","similarity":0.5501},{"id":"quick-sign-ins","similarity":0.2845},{"id":"passkeys","similarity":0.3143}]}
+{"timestamp":"2026-10-22T23:15:04.859Z","tool":"get_best_practices","result":[{"id":"webmcp"}]}
+{"timestamp":"2026-10-22T23:15:04.860Z","tool":"get_best_practices","result":[{"id":"agentic-forms"}]}
+{"timestamp":"2026-10-22T23:15:04.861Z","tool":"get_best_practices","result":[{"id":"agentic-javascript-tools"}]}

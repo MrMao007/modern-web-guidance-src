@@ -1,0 +1,2 @@
+{"timestamp":"2026-10-20T21:15:03.232Z","tool":"search_use_cases","result":[{"id":"position-aware-tooltips","similarity":0.5955},{"id":"hovercard","similarity":0.5519},{"id":"persistent-app-tours","similarity":0.548},{"id":"viewport-aware-dropdowns","similarity":0.495},{"id":"animate-to-from-top-layer","similarity":0.4942}]}
+{"timestamp":"2026-10-20T21:15:05.226Z","tool":"get_best_practices","result":[{"id":"viewport-aware-dropdowns"}]}

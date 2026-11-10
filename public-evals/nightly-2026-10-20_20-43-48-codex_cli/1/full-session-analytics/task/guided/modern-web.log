@@ -1,0 +1,2 @@
+{"timestamp":"2026-10-20T20:55:36.196Z","tool":"search_use_cases","result":[{"id":"batch-analytics-events","similarity":0.5561},{"id":"interaction-paint-timing","similarity":0.4831},{"id":"full-session-analytics","similarity":0.4461}]}
+{"timestamp":"2026-10-20T20:55:39.318Z","tool":"get_best_practices","result":[{"id":"full-session-analytics"}]}

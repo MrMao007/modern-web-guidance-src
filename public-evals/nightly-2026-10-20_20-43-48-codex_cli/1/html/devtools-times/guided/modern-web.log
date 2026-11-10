@@ -1,0 +1,6 @@
+{"timestamp":"2026-10-20T20:56:33.335Z","tool":"search_use_cases","result":[]}
+{"timestamp":"2026-10-20T20:56:33.416Z","tool":"search_use_cases","result":[{"id":"performance","similarity":0.6968},{"id":"deliver-optimized-decorative-images","similarity":0.6146},{"id":"html","similarity":0.5417},{"id":"optimize-image-priority","similarity":0.5269},{"id":"resolution-optimized-pseudo-elements","similarity":0.505}]}
+{"timestamp":"2026-10-20T20:56:33.449Z","tool":"search_use_cases","result":[{"id":"declarative-dialog-popover-control","similarity":0.6803},{"id":"persistent-app-tours","similarity":0.6399},{"id":"html","similarity":0.6087},{"id":"drag","similarity":0.5951},{"id":"persistent-top-layer-ui","similarity":0.5675}]}
+{"timestamp":"2026-10-20T20:56:40.934Z","tool":"get_best_practices","result":[{"id":"html"}]}
+{"timestamp":"2026-10-20T20:56:43.993Z","tool":"get_best_practices","result":[{"id":"declarative-dialog-popover-control"}]}
+{"timestamp":"2026-10-20T20:56:43.994Z","tool":"get_best_practices","result":[{"id":"forms"}]}

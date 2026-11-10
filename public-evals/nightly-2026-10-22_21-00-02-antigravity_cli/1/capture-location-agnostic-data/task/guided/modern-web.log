@@ -1,0 +1,4 @@
+{"timestamp":"2026-10-22T21:21:19.285Z","tool":"search_use_cases","result":[{"id":"capture-location-agnostic-data","similarity":0.6318},{"id":"coordinate-global-events","similarity":0.5863},{"id":"manage-recurring-intervals","similarity":0.5173},{"id":"calculate-event-differentials","similarity":0.432},{"id":"stabilize-reactive-state","similarity":0.3987}]}
+{"timestamp":"2026-10-22T21:21:40.019Z","tool":"get_best_practices","result":[{"id":"capture-location-agnostic-data"}]}
+{"timestamp":"2026-10-22T21:21:40.020Z","tool":"get_best_practices","result":[{"id":"forms"}]}
+{"timestamp":"2026-10-22T21:21:40.020Z","tool":"get_best_practices","result":[{"id":"html"}]}

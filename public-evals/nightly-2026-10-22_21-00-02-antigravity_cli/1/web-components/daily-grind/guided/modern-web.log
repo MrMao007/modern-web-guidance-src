@@ -1,0 +1,8 @@
+{"timestamp":"2026-10-22T23:14:16.734Z","tool":"search_use_cases","result":[{"id":"styling-web-components","similarity":0.4793},{"id":"web-components","similarity":0.5934},{"id":"usage-aware-component-variations","similarity":0.3939},{"id":"hovercard","similarity":0.2906},{"id":"content-based-styling","similarity":0.284}]}
+{"timestamp":"2026-10-22T23:14:20.085Z","tool":"get_best_practices","result":[{"id":"web-components"}]}
+{"timestamp":"2026-10-22T23:14:20.086Z","tool":"get_best_practices","result":[{"id":"styling-web-components"}]}
+{"timestamp":"2026-10-22T23:14:20.088Z","tool":"get_best_practices","result":[{"id":"accessibility"}]}
+{"timestamp":"2026-10-22T23:14:28.055Z","tool":"get_best_practices","result":[{"id":"custom-elements"}]}
+{"timestamp":"2026-10-22T23:14:28.057Z","tool":"get_best_practices","result":[{"id":"shadow-dom"}]}
+{"timestamp":"2026-10-22T23:14:28.058Z","tool":"get_best_practices","result":[{"id":"accessible-web-components"}]}
+{"timestamp":"2026-10-22T23:14:39.420Z","tool":"get_best_practices","result":[{"id":"prerendering-custom-elements"}]}

@@ -1,0 +1,2 @@
+{"timestamp":"2026-10-20T20:30:57.611Z","tool":"search_use_cases","result":[{"id":"digital-signatures","similarity":0.6582},{"id":"passkey-authentication","similarity":0.5318},{"id":"passkey-registration","similarity":0.5241},{"id":"client-side-encryption","similarity":0.5166},{"id":"passkeys","similarity":0.4864}]}
+{"timestamp":"2026-10-20T20:30:59.396Z","tool":"get_best_practices","result":[{"id":"digital-signatures"}]}

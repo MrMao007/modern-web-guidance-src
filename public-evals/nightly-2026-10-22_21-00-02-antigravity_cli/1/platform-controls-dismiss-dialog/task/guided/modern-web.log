@@ -1,0 +1,8 @@
+{"timestamp":"2026-10-22T22:33:38.564Z","tool":"search_use_cases","result":[{"id":"accessibility","similarity":0.7128},{"id":"declarative-dialog-popover-control","similarity":0.5663},{"id":"light-dismiss-a-dialog","similarity":0.5152},{"id":"html","similarity":0.5385},{"id":"prevent-page-scroll-under-modal-dialog","similarity":0.4272}]}
+{"timestamp":"2026-10-22T22:34:13.734Z","tool":"get_best_practices","result":[{"id":"declarative-dialog-popover-control"}]}
+{"timestamp":"2026-10-22T22:34:13.735Z","tool":"get_best_practices","result":[{"id":"light-dismiss-a-dialog"}]}
+{"timestamp":"2026-10-22T22:34:13.736Z","tool":"get_best_practices","result":[{"id":"prevent-page-scroll-under-modal-dialog"}]}
+{"timestamp":"2026-10-22T22:34:13.736Z","tool":"get_best_practices","result":[{"id":"html"}]}
+{"timestamp":"2026-10-22T22:34:13.738Z","tool":"get_best_practices","result":[{"id":"accessibility"}]}
+{"timestamp":"2026-10-22T22:34:47.557Z","tool":"search_use_cases","result":[{"id":"platform-controls-dismiss-dialog","similarity":0.6568},{"id":"light-dismiss-a-dialog","similarity":0.5577},{"id":"html","similarity":0.4835},{"id":"declarative-dialog-popover-control","similarity":0.4266},{"id":"animate-to-from-top-layer","similarity":0.4501}]}
+{"timestamp":"2026-10-22T22:34:51.278Z","tool":"get_best_practices","result":[{"id":"platform-controls-dismiss-dialog"}]}

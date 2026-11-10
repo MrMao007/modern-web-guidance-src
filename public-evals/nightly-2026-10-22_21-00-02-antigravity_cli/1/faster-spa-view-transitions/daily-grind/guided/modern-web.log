@@ -1,0 +1,5 @@
+{"timestamp":"2026-10-22T21:52:08.027Z","tool":"search_use_cases","result":[{"id":"stack-drill-down","similarity":0.5472},{"id":"faster-spa-view-transitions","similarity":0.4116},{"id":"directional-navigation-transitions","similarity":0.4198},{"id":"cross-document-transitions","similarity":0.4804},{"id":"same-document-transitions","similarity":0.4697}]}
+{"timestamp":"2026-10-22T21:52:14.626Z","tool":"get_best_practices","result":[{"id":"faster-spa-view-transitions"}]}
+{"timestamp":"2026-10-22T21:52:14.627Z","tool":"get_best_practices","result":[{"id":"performance"}]}
+{"timestamp":"2026-10-22T21:52:14.628Z","tool":"get_best_practices","result":[{"id":"html"}]}
+{"timestamp":"2026-10-22T21:52:14.630Z","tool":"get_best_practices","result":[{"id":"css"}]}

@@ -1,0 +1,4 @@
+{"timestamp":"2026-10-22T22:11:29.858Z","tool":"search_use_cases","result":[{"id":"lazy-load-video-and-audio","similarity":0.7589},{"id":"performance","similarity":0.5645},{"id":"accessibility","similarity":0.409},{"id":"optimize-preload-priority","similarity":0.3589},{"id":"optimize-image-priority","similarity":0.337}]}
+{"timestamp":"2026-10-22T22:11:38.498Z","tool":"get_best_practices","result":[{"id":"lazy-load-video-and-audio"}]}
+{"timestamp":"2026-10-22T22:11:38.499Z","tool":"get_best_practices","result":[{"id":"performance"}]}
+{"timestamp":"2026-10-22T22:11:58.043Z","tool":"get_best_practices","result":[{"id":"accessibility"}]}

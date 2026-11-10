@@ -1,0 +1,3 @@
+{"timestamp":"2026-10-22T22:04:07.486Z","tool":"search_use_cases","result":[{"id":"improve-text-layout-and-legibility","similarity":0.7009},{"id":"typography","similarity":0.6676},{"id":"equal-width-text-lines","similarity":0.6499},{"id":"respect-os-text-scale","similarity":0.506},{"id":"css-layout","similarity":0.4099}]}
+{"timestamp":"2026-10-22T22:05:05.171Z","tool":"get_best_practices","result":[{"id":"improve-text-layout-and-legibility"}]}
+{"timestamp":"2026-10-22T22:05:05.173Z","tool":"get_best_practices","result":[{"id":"typography"}]}

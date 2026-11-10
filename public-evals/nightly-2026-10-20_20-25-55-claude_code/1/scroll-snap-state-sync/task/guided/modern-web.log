@@ -1,0 +1,4 @@
+{"timestamp":"2026-10-20T20:37:19.737Z","tool":"search_use_cases","result":[{"id":"scroll-snap-state-sync","similarity":0.7514},{"id":"carousel-snap-highlights","similarity":0.6454},{"id":"scroll-position-aware-elements","similarity":0.5849},{"id":"scroll-snap-realtime-feedback","similarity":0.5823},{"id":"pull-to-reveal","similarity":0.5695}]}
+{"timestamp":"2026-10-20T20:37:20.438Z","tool":"search_use_cases","result":[{"id":"scrollspy","similarity":0.5523},{"id":"scroll-snap-state-sync","similarity":0.5125},{"id":"scroll-target-on-load","similarity":0.4972},{"id":"pull-to-reveal","similarity":0.4958},{"id":"scrollability-affordance-hints","similarity":0.4469}]}
+{"timestamp":"2026-10-20T20:37:21.795Z","tool":"get_best_practices","result":[{"id":"scroll-snap-state-sync"}]}
+{"timestamp":"2026-10-20T20:37:21.796Z","tool":"get_best_practices","result":[{"id":"scrollspy"}]}

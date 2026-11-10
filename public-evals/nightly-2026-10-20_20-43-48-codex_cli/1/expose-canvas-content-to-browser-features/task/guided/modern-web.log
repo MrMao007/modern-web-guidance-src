@@ -1,0 +1,2 @@
+{"timestamp":"2026-10-20T20:53:37.111Z","tool":"search_use_cases","result":[{"id":"expose-canvas-content-to-browser-features","similarity":0.7105},{"id":"interactive-content-in-3d-scenes","similarity":0.6973},{"id":"export-html-media-from-canvas","similarity":0.5848},{"id":"apply-webgl-shaders","similarity":0.5729},{"id":"interactions-in-complex-layouts","similarity":0.4313}]}
+{"timestamp":"2026-10-20T20:53:39.058Z","tool":"get_best_practices","result":[{"id":"expose-canvas-content-to-browser-features"}]}

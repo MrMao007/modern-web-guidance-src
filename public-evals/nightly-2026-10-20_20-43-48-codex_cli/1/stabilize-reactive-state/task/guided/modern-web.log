@@ -1,0 +1,2 @@
+{"timestamp":"2026-10-20T21:12:00.977Z","tool":"search_use_cases","result":[{"id":"stabilize-reactive-state","similarity":0.597},{"id":"manage-recurring-intervals","similarity":0.5439},{"id":"model-partial-time-concepts","similarity":0.5042},{"id":"capture-location-agnostic-data","similarity":0.4875},{"id":"support-global-calendar-systems","similarity":0.4654}]}
+{"timestamp":"2026-10-20T21:12:03.448Z","tool":"get_best_practices","result":[{"id":"stabilize-reactive-state"}]}

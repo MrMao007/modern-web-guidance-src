@@ -1,0 +1,2 @@
+{"timestamp":"2026-10-20T20:32:43.365Z","tool":"search_use_cases","result":[{"id":"identify-heavy-scripts","similarity":0.646},{"id":"identify-inp-causes","similarity":0.547},{"id":"flicker-free-client-side-ab-testing","similarity":0.4434},{"id":"custom-elements","similarity":0.4434}]}
+{"timestamp":"2026-10-20T20:32:44.608Z","tool":"get_best_practices","result":[{"id":"identify-heavy-scripts"}]}

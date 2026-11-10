@@ -1,0 +1,3 @@
+{"timestamp":"2026-10-20T20:35:48.995Z","tool":"search_use_cases","result":[{"id":"light-dismiss-a-dialog","similarity":0.8311},{"id":"html","similarity":0.6319},{"id":"platform-controls-dismiss-dialog","similarity":0.6188},{"id":"animate-to-from-top-layer","similarity":0.5476},{"id":"declarative-dialog-popover-control","similarity":0.5039}]}
+{"timestamp":"2026-10-20T20:35:50.339Z","tool":"get_best_practices","result":[{"id":"light-dismiss-a-dialog"}]}
+{"timestamp":"2026-10-20T20:35:50.340Z","tool":"get_best_practices","result":[{"id":"declarative-dialog-popover-control"}]}

@@ -1,0 +1,2 @@
+{"timestamp":"2026-10-20T21:01:57.400Z","tool":"search_use_cases","result":[{"id":"agentic-javascript-tools","similarity":0.5308},{"id":"flicker-free-client-side-ab-testing","similarity":0.5079},{"id":"optimize-script-priority","similarity":0.5039},{"id":"conditional-async-dependencies","similarity":0.4958},{"id":"detect-initial-visibility-state","similarity":0.4817}]}
+{"timestamp":"2026-10-20T21:01:58.918Z","tool":"get_best_practices","result":[{"id":"optimize-script-priority"}]}

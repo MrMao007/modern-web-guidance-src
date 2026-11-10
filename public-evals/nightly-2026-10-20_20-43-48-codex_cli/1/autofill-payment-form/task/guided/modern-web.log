@@ -1,0 +1,2 @@
+{"timestamp":"2026-10-20T20:47:08.817Z","tool":"search_use_cases","result":[{"id":"forms","similarity":0.6145},{"id":"agentic-forms","similarity":0.4851},{"id":"accessibility","similarity":0.4333}]}
+{"timestamp":"2026-10-20T20:47:11.278Z","tool":"get_best_practices","result":[{"id":"forms"}]}

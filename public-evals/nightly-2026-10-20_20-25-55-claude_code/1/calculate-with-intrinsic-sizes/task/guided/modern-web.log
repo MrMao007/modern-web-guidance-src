@@ -1,0 +1,4 @@
+{"timestamp":"2026-10-20T20:29:11.880Z","tool":"search_use_cases","result":[{"id":"animate-to-intrinsic-sizes","similarity":0.5739},{"id":"calculate-with-intrinsic-sizes","similarity":0.4934},{"id":"shrinking-header-on-scroll","similarity":0.4733},{"id":"scroll-entry-exit-effects","similarity":0.459},{"id":"dynamic-sibling-animations","similarity":0.4357}]}
+{"timestamp":"2026-10-20T20:29:12.587Z","tool":"search_use_cases","result":[{"id":"search-hidden-content","similarity":0.7171},{"id":"html","similarity":0.6016},{"id":"calculate-with-intrinsic-sizes","similarity":0.5825},{"id":"animate-to-intrinsic-sizes","similarity":0.4876},{"id":"interactive-content-reveal","similarity":0.4571}]}
+{"timestamp":"2026-10-20T20:29:14.336Z","tool":"get_best_practices","result":[{"id":"animate-to-intrinsic-sizes"}]}
+{"timestamp":"2026-10-20T20:29:14.337Z","tool":"get_best_practices","result":[{"id":"calculate-with-intrinsic-sizes"}]}

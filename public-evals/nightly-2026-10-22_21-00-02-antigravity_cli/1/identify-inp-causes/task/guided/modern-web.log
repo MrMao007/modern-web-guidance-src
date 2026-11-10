@@ -1,0 +1,3 @@
+{"timestamp":"2026-10-22T22:02:48.097Z","tool":"search_use_cases","result":[{"id":"identify-inp-causes","similarity":0.4264},{"id":"performance","similarity":0.2807},{"id":"interactions-in-complex-layouts","similarity":0.1952},{"id":"interaction-paint-timing","similarity":0.1964},{"id":"optimize-script-priority","similarity":0.1934}]}
+{"timestamp":"2026-10-22T22:02:51.703Z","tool":"get_best_practices","result":[{"id":"identify-inp-causes"}]}
+{"timestamp":"2026-10-22T22:02:51.704Z","tool":"get_best_practices","result":[{"id":"performance"}]}

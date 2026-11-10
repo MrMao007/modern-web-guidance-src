@@ -1,0 +1,4 @@
+{"timestamp":"2026-10-22T21:49:57.835Z","tool":"search_use_cases","result":[{"id":"expose-canvas-content-to-browser-features","similarity":0.7601},{"id":"export-html-media-from-canvas","similarity":0.6838},{"id":"interactive-content-in-3d-scenes","similarity":0.6514},{"id":"apply-webgl-shaders","similarity":0.6374},{"id":"flicker-free-client-side-ab-testing","similarity":0.3942}]}
+{"timestamp":"2026-10-22T21:50:03.345Z","tool":"get_best_practices","result":[{"id":"export-html-media-from-canvas"}]}
+{"timestamp":"2026-10-22T21:50:03.346Z","tool":"get_best_practices","result":[{"id":"expose-canvas-content-to-browser-features"}]}
+{"timestamp":"2026-10-22T21:51:17.990Z","tool":"search_use_cases","result":[{"id":"custom-select-picker-layouts","similarity":0.555},{"id":"branded-select-styling","similarity":0.4591},{"id":"color","similarity":0.4558},{"id":"rich-media-picker","similarity":0.4386},{"id":"autofill-highlight-inputs","similarity":0.4167}]}

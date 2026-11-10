@@ -1,0 +1,2 @@
+{"timestamp":"2026-10-20T21:10:22.047Z","tool":"search_use_cases","result":[{"id":"security","similarity":0.5727},{"id":"trusted-types","similarity":0.5062}]}
+{"timestamp":"2026-10-20T21:10:26.144Z","tool":"get_best_practices","result":[{"id":"security"}]}

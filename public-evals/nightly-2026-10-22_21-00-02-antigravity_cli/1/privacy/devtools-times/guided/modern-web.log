@@ -1,0 +1,13 @@
+{"timestamp":"2026-10-22T22:37:13.667Z","tool":"search_use_cases","result":[{"id":"privacy","similarity":0.605},{"id":"forms","similarity":0.4356},{"id":"autofill-sign-up-form","similarity":0.4141},{"id":"autofill-sign-in-form","similarity":0.3869},{"id":"autofill-address-form","similarity":0.3616}]}
+{"timestamp":"2026-10-22T22:37:14.434Z","tool":"search_use_cases","result":[{"id":"security","similarity":0.6456},{"id":"privacy","similarity":0.4623},{"id":"secure-external-subresources","similarity":0.5058},{"id":"trusted-types","similarity":0.2278},{"id":"language-detection","similarity":0.2215}]}
+{"timestamp":"2026-10-22T22:37:15.171Z","tool":"search_use_cases","result":[{"id":"privacy","similarity":0.5431},{"id":"security","similarity":0.3761},{"id":"performance","similarity":0.3528},{"id":"language-detection","similarity":0.2433},{"id":"identify-heavy-scripts","similarity":0.2822}]}
+{"timestamp":"2026-10-22T22:37:37.167Z","tool":"get_best_practices","result":[{"id":"privacy"}]}
+{"timestamp":"2026-10-22T22:37:56.105Z","tool":"get_best_practices","result":[{"id":"forms"}]}
+{"timestamp":"2026-10-22T22:37:56.107Z","tool":"get_best_practices","result":[{"id":"autofill-sign-up-form"}]}
+{"timestamp":"2026-10-22T22:37:56.108Z","tool":"get_best_practices","result":[{"id":"autofill-sign-in-form"}]}
+{"timestamp":"2026-10-22T22:37:56.109Z","tool":"get_best_practices","result":[{"id":"security"}]}
+{"timestamp":"2026-10-22T22:37:56.110Z","tool":"get_best_practices","result":[{"id":"secure-external-subresources"}]}
+{"timestamp":"2026-10-22T22:39:09.399Z","tool":"get_best_practices","result":[{"id":"restrict-outbound-connections"}]}
+{"timestamp":"2026-10-22T22:39:09.400Z","tool":"get_best_practices","result":[{"id":"validate-input-after-interaction"}]}
+{"timestamp":"2026-10-22T22:39:09.401Z","tool":"get_best_practices","result":[{"id":"required-field-feedback"}]}
+{"timestamp":"2026-10-22T22:39:09.401Z","tool":"get_best_practices","result":[{"id":"accessible-error-announcement"}]}

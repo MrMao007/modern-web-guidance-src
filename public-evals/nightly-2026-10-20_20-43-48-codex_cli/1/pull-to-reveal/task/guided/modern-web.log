@@ -1,0 +1,2 @@
+{"timestamp":"2026-10-20T21:06:05.930Z","tool":"search_use_cases","result":[{"id":"pull-to-reveal","similarity":0.6946},{"id":"scroll-target-on-load","similarity":0.5913},{"id":"scroll-position-aware-elements","similarity":0.5047},{"id":"search-hidden-content","similarity":0.5046},{"id":"scrollability-affordance-hints","similarity":0.4877}]}
+{"timestamp":"2026-10-20T21:06:07.655Z","tool":"get_best_practices","result":[{"id":"pull-to-reveal"}]}

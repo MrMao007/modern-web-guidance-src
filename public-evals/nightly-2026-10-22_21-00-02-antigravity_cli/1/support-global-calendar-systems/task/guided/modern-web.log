@@ -1,0 +1,3 @@
+{"timestamp":"2026-10-22T23:06:51.433Z","tool":"search_use_cases","result":[{"id":"support-global-calendar-systems","similarity":0.7119},{"id":"manage-recurring-intervals","similarity":0.553},{"id":"capture-location-agnostic-data","similarity":0.5275},{"id":"model-partial-time-concepts","similarity":0.5402},{"id":"stabilize-reactive-state","similarity":0.4612}]}
+{"timestamp":"2026-10-22T23:06:58.227Z","tool":"get_best_practices","result":[{"id":"support-global-calendar-systems"}]}
+{"timestamp":"2026-10-22T23:06:58.228Z","tool":"get_best_practices","result":[{"id":"capture-location-agnostic-data"}]}

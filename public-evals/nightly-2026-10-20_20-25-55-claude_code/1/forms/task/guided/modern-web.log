@@ -1,0 +1,7 @@
+{"timestamp":"2026-10-20T20:32:15.260Z","tool":"search_use_cases","result":[{"id":"validate-input-after-interaction","similarity":0.5242},{"id":"forms","similarity":0.5159},{"id":"autofill-sign-up-form","similarity":0.4676},{"id":"required-field-feedback","similarity":0.4643},{"id":"autofill-sign-in-form","similarity":0.436}]}
+{"timestamp":"2026-10-20T20:32:15.934Z","tool":"search_use_cases","result":[{"id":"accessible-error-announcement","similarity":0.5676},{"id":"forms","similarity":0.4272}]}
+{"timestamp":"2026-10-20T20:32:17.497Z","tool":"get_best_practices","result":[{"id":"forms"}]}
+{"timestamp":"2026-10-20T20:32:17.499Z","tool":"get_best_practices","result":[{"id":"accessible-error-announcement"}]}
+{"timestamp":"2026-10-20T20:32:17.500Z","tool":"get_best_practices","result":[{"id":"autofill-sign-up-form"}]}
+{"timestamp":"2026-10-20T20:32:17.502Z","tool":"get_best_practices","result":[{"id":"security"}]}
+{"timestamp":"2026-10-20T20:32:17.502Z","tool":"get_best_practices","result":[{"id":"accessibility"}]}

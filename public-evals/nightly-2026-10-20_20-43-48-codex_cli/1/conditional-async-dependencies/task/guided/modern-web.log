@@ -1,0 +1,2 @@
+{"timestamp":"2026-10-20T20:49:11.065Z","tool":"search_use_cases","result":[{"id":"declarative-dialog-popover-control","similarity":0.6767},{"id":"animate-to-from-top-layer","similarity":0.6053},{"id":"hovercard","similarity":0.5957},{"id":"persistent-toast-notifications","similarity":0.5914},{"id":"position-aware-tooltips","similarity":0.5882}]}
+{"timestamp":"2026-10-20T20:49:14.009Z","tool":"get_best_practices","result":[{"id":"declarative-dialog-popover-control"}]}

@@ -1,0 +1,6 @@
+{"timestamp":"2026-10-20T21:15:50.194Z","tool":"search_use_cases","result":[{"id":"size-aware-styling","similarity":0.7163},{"id":"card","similarity":0.637},{"id":"css-layout","similarity":0.5838},{"id":"css","similarity":0.572},{"id":"responsive-design","similarity":0.5695}]}
+{"timestamp":"2026-10-20T21:16:00.300Z","tool":"get_best_practices","result":[{"id":"card"}]}
+{"timestamp":"2026-10-20T21:16:00.302Z","tool":"get_best_practices","result":[{"id":"responsive-design"}]}
+{"timestamp":"2026-10-20T21:16:00.302Z","tool":"get_best_practices","result":[{"id":"css"}]}
+{"timestamp":"2026-10-20T21:16:01.036Z","tool":"search_use_cases","result":[{"id":"light-dismiss-a-dialog","similarity":0.8311},{"id":"html","similarity":0.6319},{"id":"platform-controls-dismiss-dialog","similarity":0.6188},{"id":"animate-to-from-top-layer","similarity":0.5476},{"id":"declarative-dialog-popover-control","similarity":0.5039}]}
+{"timestamp":"2026-10-20T21:16:05.640Z","tool":"get_best_practices","result":[{"id":"light-dismiss-a-dialog"}]}

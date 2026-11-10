@@ -1,0 +1,5 @@
+{"timestamp":"2026-10-20T20:32:36.921Z","tool":"search_use_cases","result":[{"id":"light-dismiss-a-dialog","similarity":0.6279},{"id":"accessibility","similarity":0.6277},{"id":"declarative-dialog-popover-control","similarity":0.5837},{"id":"html","similarity":0.5785},{"id":"platform-controls-dismiss-dialog","similarity":0.5539}]}
+{"timestamp":"2026-10-20T20:32:37.582Z","tool":"search_use_cases","result":[{"id":"accessibility","similarity":0.4861}]}
+{"timestamp":"2026-10-20T20:32:38.272Z","tool":"search_use_cases","result":[{"id":"optimize-preload-priority","similarity":0.4744},{"id":"optimize-script-priority","similarity":0.4133},{"id":"optimize-image-priority","similarity":0.3696}]}
+{"timestamp":"2026-10-20T20:32:39.616Z","tool":"get_best_practices","result":[{"id":"html"}]}
+{"timestamp":"2026-10-20T20:32:39.617Z","tool":"get_best_practices","result":[{"id":"optimize-image-priority"}]}

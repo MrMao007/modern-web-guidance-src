@@ -1,0 +1,4 @@
+{"timestamp":"2026-10-22T21:26:08.535Z","tool":"search_use_cases","result":[{"id":"conditional-async-dependencies","similarity":0.5259},{"id":"stabilize-reactive-state","similarity":0.334},{"id":"declarative-dialog-popover-control","similarity":0.3639},{"id":"coordinate-global-events","similarity":0.2933},{"id":"sequence-distributed-events","similarity":0.2783}]}
+{"timestamp":"2026-10-22T21:26:09.295Z","tool":"search_use_cases","result":[{"id":"declarative-dialog-popover-control","similarity":0.4541},{"id":"hovercard","similarity":0.4485},{"id":"menu","similarity":0.4507},{"id":"persistent-app-tours","similarity":0.4725},{"id":"viewport-aware-dropdowns","similarity":0.449}]}
+{"timestamp":"2026-10-22T21:26:12.653Z","tool":"get_best_practices","result":[{"id":"conditional-async-dependencies"}]}
+{"timestamp":"2026-10-22T21:26:12.655Z","tool":"get_best_practices","result":[{"id":"declarative-dialog-popover-control"}]}

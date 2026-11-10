@@ -1,0 +1,4 @@
+{"timestamp":"2026-10-20T20:49:05.241Z","tool":"search_use_cases","result":[{"id":"dark-mode","similarity":0.6564},{"id":"dark-mode-toggle","similarity":0.6349},{"id":"component-specific-light-dark-theme","similarity":0.6032},{"id":"color","similarity":0.4701},{"id":"light-dismiss-a-dialog","similarity":0.43}]}
+{"timestamp":"2026-10-20T20:49:10.315Z","tool":"get_best_practices","result":[{"id":"dark-mode"}]}
+{"timestamp":"2026-10-20T20:49:10.317Z","tool":"get_best_practices","result":[{"id":"component-specific-light-dark-theme"}]}
+{"timestamp":"2026-10-20T20:49:10.317Z","tool":"get_best_practices","result":[{"id":"color"}]}

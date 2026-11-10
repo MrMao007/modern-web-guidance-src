@@ -1,0 +1,3 @@
+{"timestamp":"2026-10-20T20:28:05.449Z","tool":"search_use_cases","result":[{"id":"webmcp","similarity":0.665},{"id":"agentic-javascript-tools","similarity":0.5951},{"id":"agentic-forms","similarity":0.4814},{"id":"cpp-on-the-web","similarity":0.4466}]}
+{"timestamp":"2026-10-20T20:28:06.984Z","tool":"get_best_practices","result":[{"id":"webmcp"}]}
+{"timestamp":"2026-10-20T20:28:06.985Z","tool":"get_best_practices","result":[{"id":"agentic-javascript-tools"}]}

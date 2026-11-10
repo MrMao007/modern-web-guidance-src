@@ -1,0 +1,2 @@
+{"timestamp":"2026-10-20T20:51:51.216Z","tool":"search_use_cases","result":[{"id":"deprioritize-background-fetches","similarity":0.7094},{"id":"optimize-preload-priority","similarity":0.6592},{"id":"optimize-script-priority","similarity":0.6256},{"id":"full-session-analytics","similarity":0.5287},{"id":"batch-analytics-events","similarity":0.5178}]}
+{"timestamp":"2026-10-20T20:51:53.755Z","tool":"get_best_practices","result":[{"id":"deprioritize-background-fetches"}]}

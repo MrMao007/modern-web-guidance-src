@@ -1,0 +1,4 @@
+{"timestamp":"2026-10-20T20:31:31.441Z","tool":"search_use_cases","result":[{"id":"interactive-content-in-3d-scenes","similarity":0.7247},{"id":"expose-canvas-content-to-browser-features","similarity":0.709},{"id":"export-html-media-from-canvas","similarity":0.588},{"id":"apply-webgl-shaders","similarity":0.5855}]}
+{"timestamp":"2026-10-20T20:31:32.117Z","tool":"search_use_cases","result":[]}
+{"timestamp":"2026-10-20T20:31:33.880Z","tool":"get_best_practices","result":[{"id":"expose-canvas-content-to-browser-features"}]}
+{"timestamp":"2026-10-20T20:31:33.881Z","tool":"get_best_practices","result":[{"id":"interactive-content-in-3d-scenes"}]}

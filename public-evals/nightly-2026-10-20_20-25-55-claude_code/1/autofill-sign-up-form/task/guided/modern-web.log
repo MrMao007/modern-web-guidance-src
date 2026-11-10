@@ -1,0 +1,4 @@
+{"timestamp":"2026-10-20T20:28:45.432Z","tool":"search_use_cases","result":[{"id":"autofill-sign-up-form","similarity":0.6555},{"id":"autofill-sign-in-form","similarity":0.5612},{"id":"validate-input-after-interaction","similarity":0.5285},{"id":"forms","similarity":0.4741},{"id":"passkey-registration","similarity":0.4699}]}
+{"timestamp":"2026-10-20T20:28:46.784Z","tool":"get_best_practices","result":[{"id":"autofill-sign-up-form"}]}
+{"timestamp":"2026-10-20T20:28:46.786Z","tool":"get_best_practices","result":[{"id":"validate-input-after-interaction"}]}
+{"timestamp":"2026-10-20T20:28:46.786Z","tool":"get_best_practices","result":[{"id":"forms"}]}

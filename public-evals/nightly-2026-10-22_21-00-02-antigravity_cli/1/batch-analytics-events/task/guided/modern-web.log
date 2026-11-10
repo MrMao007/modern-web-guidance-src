@@ -1,0 +1,4 @@
+{"timestamp":"2026-10-22T21:15:37.419Z","tool":"search_use_cases","result":[{"id":"batch-analytics-events","similarity":0.543},{"id":"full-session-analytics","similarity":0.4293},{"id":"identify-inp-causes","similarity":0.2857},{"id":"interaction-paint-timing","similarity":0.4657},{"id":"forms","similarity":0.3614}]}
+{"timestamp":"2026-10-22T21:15:38.216Z","tool":"search_use_cases","result":[{"id":"batch-analytics-events","similarity":0.4868},{"id":"performance","similarity":0.3672},{"id":"deprioritize-background-fetches","similarity":0.4666},{"id":"full-session-analytics","similarity":0.3513},{"id":"accessibility","similarity":0.2431}]}
+{"timestamp":"2026-10-22T21:15:46.329Z","tool":"get_best_practices","result":[{"id":"batch-analytics-events"}]}
+{"timestamp":"2026-10-22T21:15:46.330Z","tool":"get_best_practices","result":[{"id":"performance"}]}

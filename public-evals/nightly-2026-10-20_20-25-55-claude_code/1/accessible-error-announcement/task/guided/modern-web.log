@@ -1,0 +1,3 @@
+{"timestamp":"2026-10-20T20:28:05.557Z","tool":"search_use_cases","result":[{"id":"required-field-feedback","similarity":0.5864},{"id":"validate-input-after-interaction","similarity":0.5819},{"id":"style-parent-with-has","similarity":0.4702},{"id":"select-menu-interaction","similarity":0.4516},{"id":"forms","similarity":0.444}]}
+{"timestamp":"2026-10-20T20:28:07.140Z","tool":"get_best_practices","result":[{"id":"required-field-feedback"}]}
+{"timestamp":"2026-10-20T20:28:07.141Z","tool":"get_best_practices","result":[{"id":"validate-input-after-interaction"}]}

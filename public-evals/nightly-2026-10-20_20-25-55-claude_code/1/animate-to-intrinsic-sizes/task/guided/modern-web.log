@@ -1,0 +1,4 @@
+{"timestamp":"2026-10-20T20:28:05.734Z","tool":"search_use_cases","result":[{"id":"calculate-with-intrinsic-sizes","similarity":0.6232},{"id":"animate-to-intrinsic-sizes","similarity":0.5412},{"id":"html","similarity":0.48},{"id":"search-hidden-content","similarity":0.4379},{"id":"animate-element-entry-exit","similarity":0.4292}]}
+{"timestamp":"2026-10-20T20:28:06.410Z","tool":"search_use_cases","result":[{"id":"animate-to-intrinsic-sizes","similarity":0.6561},{"id":"animate-element-entry-exit","similarity":0.6075},{"id":"animate-to-from-top-layer","similarity":0.5418},{"id":"motion","similarity":0.4965},{"id":"scoped-component-transitions","similarity":0.4934}]}
+{"timestamp":"2026-10-20T20:28:07.818Z","tool":"get_best_practices","result":[{"id":"animate-to-intrinsic-sizes"}]}
+{"timestamp":"2026-10-20T20:28:07.819Z","tool":"get_best_practices","result":[{"id":"animate-element-entry-exit"}]}

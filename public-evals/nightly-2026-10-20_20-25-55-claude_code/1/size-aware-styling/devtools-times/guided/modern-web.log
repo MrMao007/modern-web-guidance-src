@@ -1,0 +1,2 @@
+{"timestamp":"2026-10-20T20:38:27.705Z","tool":"search_use_cases","result":[{"id":"fluid-scaling","similarity":0.5405},{"id":"design-token-reactivity","similarity":0.5061},{"id":"size-aware-styling","similarity":0.4816},{"id":"scroll-position-aware-elements","similarity":0.4654},{"id":"usage-aware-component-variations","similarity":0.4603}]}
+{"timestamp":"2026-10-20T20:38:28.829Z","tool":"get_best_practices","result":[{"id":"size-aware-styling"}]}

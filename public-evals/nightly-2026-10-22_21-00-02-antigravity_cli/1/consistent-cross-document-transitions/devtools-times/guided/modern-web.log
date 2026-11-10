@@ -1,0 +1,6 @@
+{"timestamp":"2026-10-22T21:43:05.474Z","tool":"search_use_cases","result":[{"id":"scoped-component-transitions","similarity":0.5704},{"id":"same-document-transitions","similarity":0.7023},{"id":"consistent-cross-document-transitions","similarity":0.7685},{"id":"directional-navigation-transitions","similarity":0.5623},{"id":"cross-document-transitions","similarity":0.7586}]}
+{"timestamp":"2026-10-22T21:43:15.008Z","tool":"get_best_practices","result":[{"id":"consistent-cross-document-transitions"}]}
+{"timestamp":"2026-10-22T21:43:15.013Z","tool":"get_best_practices","result":[{"id":"cross-document-transitions"}]}
+{"timestamp":"2026-10-22T21:43:15.014Z","tool":"get_best_practices","result":[{"id":"html"}]}
+{"timestamp":"2026-10-22T21:43:15.016Z","tool":"get_best_practices","result":[{"id":"css"}]}
+{"timestamp":"2026-10-22T21:43:15.017Z","tool":"get_best_practices","result":[{"id":"performance"}]}

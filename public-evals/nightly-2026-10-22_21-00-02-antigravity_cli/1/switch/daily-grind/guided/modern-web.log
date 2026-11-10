@@ -1,0 +1,6 @@
+{"timestamp":"2026-10-22T23:08:40.014Z","tool":"search_use_cases","result":[{"id":"switch","similarity":0.5852},{"id":"accessible-web-components","similarity":0.5711},{"id":"dark-mode-toggle","similarity":0.5241},{"id":"accessibility","similarity":0.4819},{"id":"child-state-based-styling","similarity":0.4651}]}
+{"timestamp":"2026-10-22T23:08:45.006Z","tool":"get_best_practices","result":[{"id":"switch"}]}
+{"timestamp":"2026-10-22T23:08:45.007Z","tool":"get_best_practices","result":[{"id":"accessibility"}]}
+{"timestamp":"2026-10-22T23:09:16.403Z","tool":"get_best_practices","result":[{"id":"checkbox"}]}
+{"timestamp":"2026-10-22T23:09:16.404Z","tool":"get_best_practices","result":[{"id":"forms"}]}
+{"timestamp":"2026-10-22T23:09:16.405Z","tool":"get_best_practices","result":[{"id":"brand-consistent-forms"}]}

@@ -1,0 +1,2 @@
+{"timestamp":"2026-10-20T20:31:35.201Z","tool":"search_use_cases","result":[{"id":"move-dom-element-without-losing-state","similarity":0.5151},{"id":"same-document-transitions","similarity":0.4933},{"id":"stack-drill-down","similarity":0.4878},{"id":"faster-spa-view-transitions","similarity":0.4412},{"id":"scoped-component-transitions","similarity":0.4336}]}
+{"timestamp":"2026-10-20T20:31:37.007Z","tool":"get_best_practices","result":[{"id":"faster-spa-view-transitions"}]}

@@ -1,0 +1,3 @@
+{"timestamp":"2026-10-20T20:33:46.805Z","tool":"search_use_cases","result":[{"id":"language-model","similarity":0.7452},{"id":"language-detection","similarity":0.4854},{"id":"agentic-javascript-tools","similarity":0.4764},{"id":"translator","similarity":0.4648},{"id":"agentic-forms","similarity":0.432}]}
+{"timestamp":"2026-10-20T20:33:47.434Z","tool":"search_use_cases","result":[{"id":"language-model","similarity":0.5332},{"id":"translator","similarity":0.4936},{"id":"summarizer","similarity":0.4882},{"id":"out-of-order-html-streaming","similarity":0.4524},{"id":"language-detection","similarity":0.4393}]}
+{"timestamp":"2026-10-20T20:33:48.738Z","tool":"get_best_practices","result":[{"id":"language-model"}]}

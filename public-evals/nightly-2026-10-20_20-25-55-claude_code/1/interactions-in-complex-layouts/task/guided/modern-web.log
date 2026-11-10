@@ -1,0 +1,4 @@
+{"timestamp":"2026-10-20T20:33:11.662Z","tool":"search_use_cases","result":[{"id":"card","similarity":0.4935},{"id":"drag","similarity":0.4578},{"id":"size-aware-styling","similarity":0.4213},{"id":"custom-select-picker-layouts","similarity":0.3888}]}
+{"timestamp":"2026-10-20T20:33:12.334Z","tool":"search_use_cases","result":[{"id":"interactions-in-complex-layouts","similarity":0.5436},{"id":"scrollytelling","similarity":0.4844},{"id":"scoped-component-transitions","similarity":0.4618},{"id":"parallax-scroll-effects","similarity":0.4607},{"id":"motion","similarity":0.4606}]}
+{"timestamp":"2026-10-20T20:33:13.914Z","tool":"get_best_practices","result":[{"id":"drag"}]}
+{"timestamp":"2026-10-20T20:33:13.916Z","tool":"get_best_practices","result":[{"id":"interactions-in-complex-layouts"}]}

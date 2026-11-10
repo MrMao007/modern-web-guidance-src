@@ -1,0 +1,3 @@
+{"timestamp":"2026-10-20T20:50:05.078Z","tool":"search_use_cases","result":[{"id":"cross-document-transitions","similarity":0.6814},{"id":"consistent-cross-document-transitions","similarity":0.6432},{"id":"hovercard","similarity":0.5669},{"id":"same-document-transitions","similarity":0.5591},{"id":"directional-navigation-transitions","similarity":0.5436}]}
+{"timestamp":"2026-10-20T20:50:07.595Z","tool":"get_best_practices","result":[{"id":"cross-document-transitions"}]}
+{"timestamp":"2026-10-20T20:50:07.597Z","tool":"get_best_practices","result":[{"id":"directional-navigation-transitions"}]}

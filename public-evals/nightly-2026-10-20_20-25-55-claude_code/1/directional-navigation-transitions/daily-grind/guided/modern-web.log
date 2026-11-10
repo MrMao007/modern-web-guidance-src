@@ -1,0 +1,2 @@
+{"timestamp":"2026-10-20T20:30:59.086Z","tool":"search_use_cases","result":[{"id":"directional-navigation-transitions","similarity":0.6833},{"id":"cross-document-transitions","similarity":0.6486},{"id":"animate-to-from-top-layer","similarity":0.5245},{"id":"progress-ring","similarity":0.5045},{"id":"motion","similarity":0.5001}]}
+{"timestamp":"2026-10-20T20:31:00.198Z","tool":"get_best_practices","result":[{"id":"directional-navigation-transitions"}]}

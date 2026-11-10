@@ -1,0 +1,2 @@
+{"timestamp":"2026-10-20T20:53:44.285Z","tool":"search_use_cases","result":[{"id":"move-dom-element-without-losing-state","similarity":0.4367},{"id":"faster-spa-view-transitions","similarity":0.4127},{"id":"stack-drill-down","similarity":0.3949},{"id":"scrollspy","similarity":0.3781},{"id":"export-html-media-from-canvas","similarity":0.377}]}
+{"timestamp":"2026-10-20T20:53:47.125Z","tool":"get_best_practices","result":[{"id":"faster-spa-view-transitions"}]}

@@ -1,0 +1,5 @@
+{"timestamp":"2026-10-20T21:04:05.919Z","tool":"search_use_cases","result":[{"id":"accessibility","similarity":0.6449},{"id":"accessible-error-announcement","similarity":0.5271},{"id":"accessible-web-components","similarity":0.4986},{"id":"forms","similarity":0.471},{"id":"privacy","similarity":0.467}]}
+{"timestamp":"2026-10-20T21:04:11.061Z","tool":"get_best_practices","result":[{"id":"accessibility"}]}
+{"timestamp":"2026-10-20T21:04:25.343Z","tool":"search_use_cases","result":[{"id":"optimize-image-priority","similarity":0.6121},{"id":"performance","similarity":0.5996},{"id":"deliver-optimized-decorative-images","similarity":0.5996},{"id":"optimize-preload-priority","similarity":0.5507},{"id":"html","similarity":0.5434}]}
+{"timestamp":"2026-10-20T21:04:31.409Z","tool":"get_best_practices","result":[{"id":"optimize-image-priority"}]}
+{"timestamp":"2026-10-20T21:04:31.410Z","tool":"get_best_practices","result":[{"id":"performance"}]}

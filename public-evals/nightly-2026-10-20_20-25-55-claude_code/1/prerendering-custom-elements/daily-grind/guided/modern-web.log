@@ -1,0 +1,3 @@
+{"timestamp":"2026-10-20T20:36:08.976Z","tool":"search_use_cases","result":[{"id":"web-components","similarity":0.515},{"id":"prerendering-custom-elements","similarity":0.4413},{"id":"styling-web-components","similarity":0.4347},{"id":"interactions-in-complex-layouts","similarity":0.4261},{"id":"out-of-order-html-streaming","similarity":0.42}]}
+{"timestamp":"2026-10-20T20:36:11.078Z","tool":"get_best_practices","result":[{"id":"prerendering-custom-elements"}]}
+{"timestamp":"2026-10-20T20:36:11.080Z","tool":"get_best_practices","result":[{"id":"web-components"}]}

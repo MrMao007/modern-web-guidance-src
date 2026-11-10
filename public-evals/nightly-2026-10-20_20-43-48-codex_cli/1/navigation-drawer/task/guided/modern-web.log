@@ -1,0 +1,2 @@
+{"timestamp":"2026-10-20T21:01:35.200Z","tool":"search_use_cases","result":[{"id":"navigation-drawer","similarity":0.6905},{"id":"swipe-to-reveal","similarity":0.5575},{"id":"swipe-to-remove","similarity":0.4778}]}
+{"timestamp":"2026-10-20T21:01:37.285Z","tool":"get_best_practices","result":[{"id":"navigation-drawer"}]}

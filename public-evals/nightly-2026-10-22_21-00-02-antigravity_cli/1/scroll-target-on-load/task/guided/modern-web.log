@@ -1,0 +1,4 @@
+{"timestamp":"2026-10-22T22:51:33.824Z","tool":"search_use_cases","result":[{"id":"scroll-target-on-load","similarity":0.6001},{"id":"scrollability-affordance-hints","similarity":0.5749},{"id":"scroll-position-aware-elements","similarity":0.6351},{"id":"scroll-snap-state-sync","similarity":0.5722},{"id":"pull-to-reveal","similarity":0.5434}]}
+{"timestamp":"2026-10-22T22:51:38.270Z","tool":"get_best_practices","result":[{"id":"scroll-target-on-load"}]}
+{"timestamp":"2026-10-22T22:51:38.271Z","tool":"get_best_practices","result":[{"id":"css"}]}
+{"timestamp":"2026-10-22T22:51:38.272Z","tool":"get_best_practices","result":[{"id":"html"}]}

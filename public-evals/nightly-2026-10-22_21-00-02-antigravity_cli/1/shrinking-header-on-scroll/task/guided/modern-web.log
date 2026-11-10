@@ -1,0 +1,3 @@
+{"timestamp":"2026-10-22T22:58:38.753Z","tool":"search_use_cases","result":[{"id":"shrinking-header-on-scroll","similarity":0.7507},{"id":"scroll-snap-state-sync","similarity":0.4841},{"id":"responsive-table","similarity":0.4896},{"id":"state-aware-sticky-headers","similarity":0.4664},{"id":"scrollytelling","similarity":0.398}]}
+{"timestamp":"2026-10-22T22:58:42.797Z","tool":"get_best_practices","result":[{"id":"shrinking-header-on-scroll"}]}
+{"timestamp":"2026-10-22T22:58:42.799Z","tool":"get_best_practices","result":[{"id":"css"}]}

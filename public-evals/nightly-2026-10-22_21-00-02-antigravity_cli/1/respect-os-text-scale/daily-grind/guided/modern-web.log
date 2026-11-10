@@ -1,0 +1,4 @@
+{"timestamp":"2026-10-22T22:41:50.730Z","tool":"search_use_cases","result":[{"id":"respect-os-text-scale","similarity":0.7638},{"id":"typography","similarity":0.5649},{"id":"responsive-design","similarity":0.4979},{"id":"fluid-scaling","similarity":0.4932},{"id":"equal-width-text-lines","similarity":0.4483}]}
+{"timestamp":"2026-10-22T22:41:57.432Z","tool":"get_best_practices","result":[{"id":"respect-os-text-scale"}]}
+{"timestamp":"2026-10-22T22:41:57.433Z","tool":"get_best_practices","result":[{"id":"accessibility"}]}
+{"timestamp":"2026-10-22T22:41:57.436Z","tool":"get_best_practices","result":[{"id":"typography"}]}

@@ -1,0 +1,16 @@
+{"timestamp":"2026-10-22T21:59:54.044Z","tool":"search_use_cases","result":[{"id":"accessibility","similarity":0.3808},{"id":"forms","similarity":0.3002},{"id":"usage-aware-component-variations","similarity":0.3068},{"id":"responsive-table","similarity":0.2874},{"id":"web-components","similarity":0.2881}]}
+{"timestamp":"2026-10-22T21:59:54.790Z","tool":"search_use_cases","result":[{"id":"accessibility","similarity":0.6094},{"id":"html","similarity":0.5397},{"id":"persistent-app-tours","similarity":0.5314},{"id":"animate-to-from-top-layer","similarity":0.5188},{"id":"light-dismiss-a-dialog","similarity":0.5463}]}
+{"timestamp":"2026-10-22T21:59:55.538Z","tool":"search_use_cases","result":[{"id":"animate-to-from-top-layer","similarity":0.6},{"id":"menu","similarity":0.5783},{"id":"hovercard","similarity":0.5718},{"id":"persistent-toast-notifications","similarity":0.5403},{"id":"viewport-aware-dropdowns","similarity":0.5473}]}
+{"timestamp":"2026-10-22T21:59:56.276Z","tool":"search_use_cases","result":[{"id":"autofill-address-form","similarity":0.7444},{"id":"autofill-highlight-inputs","similarity":0.7498},{"id":"autofill-payment-form","similarity":0.7456},{"id":"autofill-sign-in-form","similarity":0.7333},{"id":"autofill-sign-up-form","similarity":0.7265}]}
+{"timestamp":"2026-10-22T21:59:57.015Z","tool":"search_use_cases","result":[{"id":"performance","similarity":0.6069},{"id":"responsive-design","similarity":0.5178},{"id":"html","similarity":0.4996},{"id":"deliver-optimized-decorative-images","similarity":0.5372},{"id":"css-layout","similarity":0.3913}]}
+{"timestamp":"2026-10-22T21:59:57.752Z","tool":"search_use_cases","result":[{"id":"optimize-image-priority","similarity":0.7086},{"id":"optimize-preload-priority","similarity":0.6237},{"id":"optimize-script-priority","similarity":0.4741},{"id":"html","similarity":0.5376},{"id":"performance","similarity":0.5333}]}
+{"timestamp":"2026-10-22T22:00:03.342Z","tool":"get_best_practices","result":[{"id":"html"}]}
+{"timestamp":"2026-10-22T22:00:03.343Z","tool":"get_best_practices","result":[{"id":"forms"}]}
+{"timestamp":"2026-10-22T22:00:03.344Z","tool":"get_best_practices","result":[{"id":"light-dismiss-a-dialog"}]}
+{"timestamp":"2026-10-22T22:00:03.345Z","tool":"get_best_practices","result":[{"id":"animate-to-from-top-layer"}]}
+{"timestamp":"2026-10-22T22:00:07.756Z","tool":"get_best_practices","result":[{"id":"autofill-sign-in-form"}]}
+{"timestamp":"2026-10-22T22:00:07.757Z","tool":"get_best_practices","result":[{"id":"autofill-sign-up-form"}]}
+{"timestamp":"2026-10-22T22:00:07.758Z","tool":"get_best_practices","result":[{"id":"optimize-image-priority"}]}
+{"timestamp":"2026-10-22T22:00:07.758Z","tool":"get_best_practices","result":[{"id":"performance"}]}
+{"timestamp":"2026-10-22T22:00:07.760Z","tool":"get_best_practices","result":[{"id":"accessibility"}]}
+{"timestamp":"2026-10-22T22:00:22.022Z","tool":"get_best_practices","result":[{"id":"declarative-dialog-popover-control"}]}

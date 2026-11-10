@@ -1,0 +1,7 @@
+{"timestamp":"2026-10-22T22:17:59.738Z","tool":"search_use_cases","result":[{"id":"optimize-preload-priority","similarity":0.5136},{"id":"performance","similarity":0.5631},{"id":"optimize-image-priority","similarity":0.5286},{"id":"deliver-optimized-decorative-images","similarity":0.564},{"id":"html","similarity":0.4825}]}
+{"timestamp":"2026-10-22T22:18:00.591Z","tool":"search_use_cases","result":[{"id":"performance","similarity":0.6134},{"id":"optimize-preload-priority","similarity":0.5896},{"id":"lazy-load-video-and-audio","similarity":0.3517},{"id":"visually-stable-mixed-fonts","similarity":0.4021},{"id":"visually-stable-font-fallbacks","similarity":0.521}]}
+{"timestamp":"2026-10-22T22:18:05.403Z","tool":"get_best_practices","result":[{"id":"optimize-preload-priority"}]}
+{"timestamp":"2026-10-22T22:18:05.404Z","tool":"get_best_practices","result":[{"id":"optimize-image-priority"}]}
+{"timestamp":"2026-10-22T22:18:05.405Z","tool":"get_best_practices","result":[{"id":"performance"}]}
+{"timestamp":"2026-10-22T22:18:05.405Z","tool":"get_best_practices","result":[{"id":"visually-stable-font-fallbacks"}]}
+{"timestamp":"2026-10-22T22:18:19.476Z","tool":"get_best_practices","result":[{"id":"html"}]}

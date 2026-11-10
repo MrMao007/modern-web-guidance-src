@@ -1,0 +1,5 @@
+{"timestamp":"2026-10-22T22:53:12.856Z","tool":"search_use_cases","result":[{"id":"scrollspy","similarity":0.6517},{"id":"scroll-snap-state-sync","similarity":0.5652},{"id":"carousel-snap-highlights","similarity":0.508},{"id":"state-aware-sticky-headers","similarity":0.4792},{"id":"spatial-navigation","similarity":0.4981}]}
+{"timestamp":"2026-10-22T22:53:18.672Z","tool":"get_best_practices","result":[{"id":"scrollspy"}]}
+{"timestamp":"2026-10-22T22:53:18.674Z","tool":"get_best_practices","result":[{"id":"css"}]}
+{"timestamp":"2026-10-22T22:53:18.675Z","tool":"get_best_practices","result":[{"id":"html"}]}
+{"timestamp":"2026-10-22T22:53:18.677Z","tool":"get_best_practices","result":[{"id":"accessibility"}]}

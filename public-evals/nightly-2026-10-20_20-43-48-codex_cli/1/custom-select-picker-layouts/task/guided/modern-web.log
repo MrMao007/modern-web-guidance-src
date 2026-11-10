@@ -1,0 +1,3 @@
+{"timestamp":"2026-10-20T20:50:38.590Z","tool":"search_use_cases","result":[{"id":"custom-select-picker-layouts","similarity":0.6738},{"id":"rich-media-picker","similarity":0.6152},{"id":"branded-select-styling","similarity":0.5241},{"id":"select-menu-interaction","similarity":0.4463},{"id":"browser-ui-theming","similarity":0.4397}]}
+{"timestamp":"2026-10-20T20:50:41.111Z","tool":"get_best_practices","result":[{"id":"custom-select-picker-layouts"}]}
+{"timestamp":"2026-10-20T20:50:41.113Z","tool":"get_best_practices","result":[{"id":"rich-media-picker"}]}

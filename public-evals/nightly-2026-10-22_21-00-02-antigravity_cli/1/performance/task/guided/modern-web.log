@@ -1,0 +1,9 @@
+{"timestamp":"2026-10-22T22:25:49.488Z","tool":"search_use_cases","result":[{"id":"optimize-image-priority","similarity":0.7086},{"id":"optimize-preload-priority","similarity":0.6237},{"id":"optimize-script-priority","similarity":0.4741},{"id":"html","similarity":0.5376},{"id":"performance","similarity":0.5333}]}
+{"timestamp":"2026-10-22T22:25:50.216Z","tool":"search_use_cases","result":[{"id":"improve-next-page-load-performance","similarity":0.4795},{"id":"scrollspy","similarity":0.4737},{"id":"accessibility","similarity":0.3856},{"id":"menu","similarity":0.3762},{"id":"consistent-cross-document-transitions","similarity":0.387}]}
+{"timestamp":"2026-10-22T22:25:59.166Z","tool":"get_best_practices","result":[{"id":"performance"}]}
+{"timestamp":"2026-10-22T22:25:59.168Z","tool":"get_best_practices","result":[{"id":"optimize-image-priority"}]}
+{"timestamp":"2026-10-22T22:25:59.168Z","tool":"get_best_practices","result":[{"id":"improve-next-page-load-performance"}]}
+{"timestamp":"2026-10-22T22:25:59.169Z","tool":"get_best_practices","result":[{"id":"optimize-preload-priority"}]}
+{"timestamp":"2026-10-22T22:25:59.170Z","tool":"get_best_practices","result":[{"id":"html"}]}
+{"timestamp":"2026-10-22T22:26:09.286Z","tool":"get_best_practices","result":[{"id":"deliver-optimized-decorative-images"}]}
+{"timestamp":"2026-10-22T22:26:09.287Z","tool":"get_best_practices","result":[{"id":"defer-rendering-heavy-content"}]}

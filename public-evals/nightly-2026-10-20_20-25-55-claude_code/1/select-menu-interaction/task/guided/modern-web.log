@@ -1,0 +1,2 @@
+{"timestamp":"2026-10-20T20:37:58.041Z","tool":"search_use_cases","result":[{"id":"validate-input-after-interaction","similarity":0.589},{"id":"required-field-feedback","similarity":0.575},{"id":"autofill-sign-up-form","similarity":0.5068},{"id":"forms","similarity":0.5013},{"id":"autofill-sign-in-form","similarity":0.4821}]}
+{"timestamp":"2026-10-20T20:37:59.134Z","tool":"get_best_practices","result":[{"id":"required-field-feedback"}]}

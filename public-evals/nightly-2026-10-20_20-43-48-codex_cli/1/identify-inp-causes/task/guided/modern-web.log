@@ -1,0 +1,2 @@
+{"timestamp":"2026-10-20T20:56:48.836Z","tool":"search_use_cases","result":[{"id":"identify-inp-causes","similarity":0.6019},{"id":"interaction-paint-timing","similarity":0.4899},{"id":"identify-heavy-scripts","similarity":0.4254}]}
+{"timestamp":"2026-10-20T20:56:51.912Z","tool":"get_best_practices","result":[{"id":"identify-inp-causes"}]}

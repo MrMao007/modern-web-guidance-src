@@ -1,0 +1,5 @@
+{"timestamp":"2026-10-20T20:47:31.137Z","tool":"search_use_cases","result":[{"id":"full-session-analytics","similarity":0.4516},{"id":"interaction-paint-timing","similarity":0.4492},{"id":"identify-inp-causes","similarity":0.4223},{"id":"performance","similarity":0.3862}]}
+{"timestamp":"2026-10-20T20:47:41.920Z","tool":"get_best_practices","result":[{"id":"full-session-analytics"}]}
+{"timestamp":"2026-10-20T20:47:41.921Z","tool":"get_best_practices","result":[{"id":"performance"}]}
+{"timestamp":"2026-10-20T20:47:58.238Z","tool":"get_best_practices","result":[{"id":"full-session-analytics"}]}
+{"timestamp":"2026-10-20T20:47:58.239Z","tool":"get_best_practices","result":[{"id":"performance"}]}

@@ -1,0 +1,3 @@
+{"timestamp":"2026-10-20T21:11:17.123Z","tool":"search_use_cases","result":[{"id":"fluid-scaling","similarity":0.5049},{"id":"size-aware-styling","similarity":0.4393},{"id":"css-layout","similarity":0.3991}]}
+{"timestamp":"2026-10-20T21:11:21.483Z","tool":"get_best_practices","result":[{"id":"size-aware-styling"}]}
+{"timestamp":"2026-10-20T21:11:21.484Z","tool":"get_best_practices","result":[{"id":"css-layout"}]}
