@@ -418,6 +418,9 @@
       "drag": [
         "daily-grind"
       ],
+      "drag-and-drop": [
+        "daily-grind"
+      ],
       "dynamic-sibling-animations": [
         "task"
       ],
@@ -489,6 +492,9 @@
       ],
       "search-hidden-content": [
         "task"
+      ],
+      "sortable-table": [
+        "daily-grind"
       ],
       "spatial-navigation": [
         "daily-grind"
