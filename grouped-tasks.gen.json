@@ -375,6 +375,9 @@
       "shrinking-header-on-scroll": [
         "task"
       ],
+      "single-line-overflow": [
+        "daily-grind"
+      ],
       "state-aware-sticky-headers": [
         "task"
       ],
