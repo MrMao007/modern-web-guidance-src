@@ -541,6 +541,9 @@
       "menu": [
         "daily-grind"
       ],
+      "navbar": [
+        "daily-grind"
+      ],
       "navigation-drawer": [
         "task"
       ],
