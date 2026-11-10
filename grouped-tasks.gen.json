@@ -418,6 +418,9 @@
       "drag": [
         "daily-grind"
       ],
+      "drag-and-drop": [
+        "daily-grind"
+      ],
       "dynamic-sibling-animations": [
         "task"
       ],
@@ -514,6 +517,9 @@
         "daily-grind"
       ],
       "card": [
+        "daily-grind"
+      ],
+      "carousel": [
         "daily-grind"
       ],
       "checkbox": [
