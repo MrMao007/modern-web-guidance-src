@@ -280,6 +280,10 @@
       ]
     },
     "pwa": {
+      "install-web-app": [
+        "daily-grind",
+        "daily-grind-limited"
+      ],
       "migrate-web-app-origin": [
         "daily-grind"
       ]
